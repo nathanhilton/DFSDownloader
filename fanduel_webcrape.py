@@ -1,7 +1,3 @@
-#how to get the stuff to pull up on command to make run
-#conda activate base
-#python
-
 #importing the libraries to do it
 from urllib.request import urlopen as uReq
 from bs4 import BeautifulSoup
@@ -67,8 +63,7 @@ def main():
                     csvwriter = csv.writer(csvfile)  
                     csvwriter.writerow(fields)  
                     csvwriter.writerows(rows) 
-                
-                #https://www.youtube.com/watch?v=XQgXKtPSzUI
+
 
 if __name__ == "__main__":
     main()
