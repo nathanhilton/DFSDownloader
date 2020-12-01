@@ -1,7 +1,7 @@
 from urllib.request import urlopen as uReq
 from bs4 import BeautifulSoup
 import csv 
-import os 
+import os
 
 def main():
     January = February = March = April = May = June = July = August = September = October = November = December = []
