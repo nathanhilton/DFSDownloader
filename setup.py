@@ -6,7 +6,7 @@ def readme():
 
 setup(
     name="Fanduel-Webscrape",
-    version="1.0.8",
+    version="1.0.14",
     description="A python script that will webscrape historical NBA Fanduel salary info.",
     long_description=readme(),
     long_description_content_type="text/markdown",
