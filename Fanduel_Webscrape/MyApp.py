@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import csv 
 import os
 
+# the is a comment to see if a can push from new computer!!!!
 def main():
     January = February = March = April = May = June = July = August = September = October = November = December = []
     year = [January, February, March, April, May, June, July, August, September, October, November, December]
