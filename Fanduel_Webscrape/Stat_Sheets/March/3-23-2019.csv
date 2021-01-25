@@ -1,0 +1,106 @@
+Name,Position,FDPoints,Salary,Team,Opp.,Home/Away,Score,Min,stats,Pts,Rbs,Ast,Stl,Blk,To,3PM
+"Walker, Kemba",PG,66.7,"$8,900",cha,bos,home, 124-117,34:31,   36pt 11rb 9as 2st 2to 6trey 11-25fg 8-8ft,36,11,9,2,0,2,6
+"Simmons, Ben",PG,57.7,"$9,500",phi,atl,away, 127-129,35:02,   21pt 6rb 9as 4st 2bl 2to 9-16fg 3-4ft,21,6,9,4,2,2,0
+"Doncic, Luka",SG,57.2,"$9,600",dal,gsw,away, 126-91,27:21,   23pt 11rb 10as 3st 3to 4trey 6-14fg 7-11ft,23,11,10,3,0,3,4
+"Young, Trae",PG,52.7,"$7,700",atl,phi,home, 129-127,32:44,   32pt 6rb 11as 1bl 6to 4trey 11-20fg 6-7ft,32,6,11,0,1,6,4
+"Booker, Devin",SG,52.4,"$9,300",pho,sac,away, 103-112,39:02,   32pt 2rb 10as 2st 3to 2trey 10-27fg 10-10ft,32,2,10,2,0,3,2
+"Irving, Kyrie",PG,51.4,"$10,400",bos,cha,away, 117-124,34:43,   31pt 7rb 6as 2st 3to 4trey 12-23fg 3-4ft,31,7,6,2,0,3,4
+"Brown, Jaylen",SG,47.8,"$4,800",bos,cha,away, 117-124,30:22,   29pt 4rb 4as 1st 2bl 1to 5trey 10-13fg 4-7ft,29,4,4,1,2,1,5
+"Butler, Jimmy",SG,46.2,"$8,400",phi,atl,away, 127-129,36:01,   25pt 6rb 4as 2st 1bl 1to 6-13fg 13-13ft,25,6,4,2,1,1,0
+"Lillard, Damian",PG,44.7,"$10,800",por,det,home, 117-112,37:06,   28pt 6rb 9as 4to 6trey 9-16fg 4-5ft,28,6,9,0,0,4,6
+"Hield, Buddy",SG,40.4,"$7,400",sac,pho,home, 112-103,35:57,   25pt 7rb 2as 1st 1bl 2to 7trey 9-20fg,25,7,2,1,1,2,7
+"Wade, Dwyane",SG,39.3,"$5,400",mia,was,away, 113-108,28:01,   20pt 9rb 5as 1st 2to 2trey 9-16fg 0-2ft,20,9,5,1,0,2,2
+"Conley, Mike",PG,34.1,"$9,400",mem,min,home, 99-112,35:10,   23pt 3rb 3as 2st 3to 2trey 7-17fg 7-8ft,23,3,3,2,0,3,2
+"Okogie, Josh",SG,32.2,"$4,800",min,mem,away, 112-99,33:02,   17pt 6rb 4as 1st 1bl 4to 1trey 5-11fg 6-6ft,17,6,4,1,1,4,1
+"Satoransky, Tomas",PG,31.6,"$7,100",was,mia,home, 108-113,36:03,   12pt 8rb 8as 2to 1trey 5-13fg 1-2ft,12,8,8,0,0,2,1
+"Jones, Tyus",PG,31.1,"$5,400",min,mem,away, 112-99,34:58,   12pt 3rb 9as 1st 1to 1trey 4-8fg 3-3ft,12,3,9,1,0,1,1
+"Fox, De'Aaron",PG,30.3,"$8,900",sac,pho,home, 112-103,33:49,   13pt 4rb 9as 1st 4to 3-12fg 7-8ft,13,4,9,1,0,4,0
+"Wright, Delon",SG,29.8,"$5,600",mem,min,home, 99-112,26:51,   12pt 4rb 6as 2st 2to 2trey 5-10fg,12,4,6,2,0,2,2
+"Mitchell, Donovan",SG,29.1,"$9,100",uta,chi,away, 114-83,26:12,   16pt 8rb 3as 1to 2trey 5-8fg 4-4ft,16,8,3,0,0,1,2
+"Jackson, Reggie",PG,28.9,"$5,200",det,por,away, 112-117,28:12,   24pt 2rb 1as 1st 2to 4trey 9-16fg 2-2ft,24,2,1,1,0,2,4
+"Harrison, Shaquille",PG,27.8,"$4,500",chi,uta,home, 83-114,38:58,   6pt 9rb 2as 1st 2bl 1to 2-9fg 2-2ft,6,9,2,1,2,1,0
+"Wiggins, Andrew",SG,27.3,"$6,600",min,mem,away, 112-99,34:44,   22pt 4rb 1as 1bl 4to 1trey 9-15fg 3-3ft,22,4,1,0,1,4,1
+"Waiters, Dion",SG,27.1,"$4,100",mia,was,away, 113-108,26:53,   19pt 3rb 3as 4trey 7-13fg 1-1ft,19,3,3,0,0,0,4
+"Beal, Bradley",SG,25.1,"$10,100",was,mia,home, 108-113,34:11,   16pt 3rb 3as 1st 2to 2trey 6-14fg 2-4ft,16,3,3,1,0,2,2
+"Huerter, Kevin",SG,24.1,"$4,200",atl,phi,home, 129-127,27:20,   7pt 3rb 5as 2st 1trey 3-7fg,7,3,5,2,0,0,1
+"Daniels, Troy",SG,24.1,"$3,500",pho,sac,away, 103-112,24:32,   16pt 3rb 1as 1bl 4trey 5-11fg 2-2ft,16,3,1,0,1,0,4
+"Curry, Seth",PG,23.5,"$4,000",por,det,home, 117-112,31:53,   16pt 5rb 1as 1trey 5-9fg 5-5ft,16,5,1,0,0,0,1
+"Brunson, Jalen",PG,23.3,"$6,000",dal,gsw,away, 126-91,23:37,   11pt 4rb 5as 1trey 5-9fg,11,4,5,0,0,0,1
+"Kennard, Luke",SG,23.1,"$4,200",det,por,away, 112-117,28:50,   13pt 3rb 5as 1to 1trey 6-11fg,13,3,5,0,0,1,1
+"Cook, Quinn",PG,22.7,"$3,500",gsw,dal,home, 91-126,26:34,   7pt 6rb 7as 2to 1trey 3-10fg,7,6,7,0,0,2,1
+"Smith, Ishmael",PG,22.6,"$4,900",det,por,away, 112-117,19:48,   9pt 3rb 4as 2st 2to 1trey 4-9fg,9,3,4,2,0,2,1
+"Rubio, Ricky",PG,22.3,"$6,700",uta,chi,away, 114-83,22:45,   12pt 4rb 3as 1st 2to 6-11fg,12,4,3,1,0,2,0
+"Smart, Marcus",SG,20.4,"$5,200",bos,cha,away, 117-124,25:17,   6pt 2rb 8as 1st 3to 2trey 2-10fg,6,2,8,1,0,3,2
+"Lamb, Jeremy",SG,19.6,"$7,200",cha,bos,home, 124-117,28:32,   8pt 8rb 1bl 1to 2trey 3-11fg,8,8,0,0,1,1,2
+"Korver, Kyle",SG,18.6,"$3,800",uta,chi,away, 114-83,18:07,   5pt 3rb 4as 2st 2to 1trey 2-8fg,5,3,4,2,0,2,1
+"Holiday, Justin",SG,18.6,"$3,900",mem,min,home, 99-112,31:19,   7pt 3rb 2as 2st 1to 1trey 3-8fg,7,3,2,2,0,1,1
+"Melton, De'Anthony",PG,18.1,"$3,600",pho,sac,away, 103-112,21:34,   3pt 3rb 3as 1st 2bl 2to 1trey 1-2fg,3,3,3,1,2,2,1
+"Dunn, Kris",PG,18.1,"$6,300",chi,uta,home, 83-114,21:26,   4pt 3rb 5as 1st 1-8fg 2-2ft,4,3,5,1,0,0,0
+"Burke, Trey",PG,18,"$3,500",dal,gsw,away, 126-91,20:39,   13pt 2as 1st 1to 2trey 3-7fg 5-5ft,13,0,2,1,0,1,2
+"Dorsey, Tyler",SG,17.5,"$3,700",mem,min,home, 99-112,26:07,   8pt 5rb 1as 1st 1to 1trey 3-13fg 1-1ft,8,5,1,1,0,1,1
+"Galloway, Langston",SG,17.4,"$3,500",det,por,away, 112-117,29:42,   9pt 2rb 1st 1bl 3trey 3-10fg,9,2,0,1,1,0,3
+"Monk, Malik",SG,16.7,"$3,500",cha,bos,home, 124-117,16:47,   13pt 1rb 1as 1st 2to 3trey 3-6fg 4-4ft,13,1,1,1,0,2,3
+"Rozier, Terry",PG,14.7,"$6,400",bos,cha,away, 117-124,22:35,   12pt 1rb 1as 2trey 5-8fg,12,1,1,0,0,0,2
+"Randle, Chasson",SG,14.7,"$3,500",was,mia,home, 108-113,11:58,   6pt 1rb 5as 1trey 1-4fg 3-4ft,6,1,5,0,0,0,1
+"Blakeney, Antonio",SG,14.4,"$3,500",chi,uta,home, 83-114,27:07,   10pt 2rb 2as 1to 5-11fg,10,2,2,0,0,1,0
+"Neto, Raul",PG,14.4,"$3,500",uta,chi,away, 114-83,14:44,   10pt 2rb 2as 1to 2trey 3-5fg 2-2ft,10,2,2,0,0,1,2
+"Ellington, Wayne",SG,13.7,"$4,700",det,por,away, 112-117,19:10,   5pt 1rb 3as 1st 2-5fg 1-1ft,5,1,3,1,0,0,0
+"Harris, Devin",PG,13.7,"$3,500",dal,gsw,away, 126-91,19:42,   6pt 1rb 5as 1to 2trey 2-5fg,6,1,5,0,0,1,2
+"Arcidiacono, Ryan",PG,13.6,"$3,700",chi,uta,home, 83-114,19:02,   4pt 3rb 2as 1st 0-6fg 4-4ft,4,3,2,1,0,0,0
+"Selden, Wayne",SG,13.5,"$3,700",chi,uta,home, 83-114,22:49,   9pt 5rb 1as 3to 4-11fg 1-3ft,9,5,1,0,0,3,0
+"Thompson, Klay",SG,13.4,"$8,200",gsw,dal,home, 91-126,26:42,   8pt 2rb 1st 4-13fg,8,2,0,1,0,0,0
+"Anderson, Justin",SG,13.2,"$3,500",atl,phi,home, 129-127,10:08,   6pt 1rb 1st 1bl 3-6fg,6,1,0,1,1,0,0
+"Dragic, Goran",PG,13.2,"$5,900",mia,was,away, 113-108,29:18,   9pt 1rb 2as 1trey 3-9fg 2-4ft,9,1,2,0,0,0,1
+"Luwawu, Timothe",SG,13.1,"$3,500",chi,uta,home, 83-114,20:00,   5pt 3rb 1as 1st 2-2fg 1-2ft,5,3,1,1,0,0,0
+"Graham, Devonte'",PG,12.1,"$3,500",cha,bos,home, 124-117,20:31,   4pt 3rb 3as 1trey 1-6fg 1-2ft,4,3,3,0,0,0,1
+"Adams, Jaylen",SG,11.3,"$3,500",atl,phi,home, 129-127,12:41,   5pt 4rb 1as 1trey 2-3fg 0-1ft,5,4,1,0,0,0,1
+"Bogdanovic, Bogdan",SG,10.5,"$4,500",sac,pho,home, 112-103,22:04,   6pt 3as 1st 3to 2trey 2-11fg,6,0,3,1,0,3,2
+"McRae, Jordan",SG,10.4,"$3,500",was,mia,home, 108-113,16:18,   5pt 2rb 1st 2-6fg 1-1ft,5,2,0,1,0,0,0
+"Bayless, Jerryd",PG,10.1,"$3,500",min,mem,away, 112-99,16:03,   0pt 3rb 1as 1st 1bl 1to 0-1fg,0,3,1,1,1,1,0
+"Okobo, Elie",PG,9.8,"$3,500",pho,sac,away, 103-112,19:32,   3pt 4rb 2as 1to 1trey 1-5fg,3,4,2,0,0,1,1
+"Sampson, Brandon",SG,9,"$3,500",chi,uta,home, 83-114,17:27,   7pt 1st 1bl 4to 1trey 3-6fg,7,0,0,1,1,4,1
+"Iguodala, Andre",SG,8.9,"$4,300",gsw,dal,home, 91-126,15:52,   0pt 2rb 1as 1st 1bl 1to 0-3fg,0,2,1,1,1,1,0
+"Lee, Damion",SG,7.9,"$3,500",gsw,dal,home, 91-126,15:43,   4pt 2rb 1as 2-5fg,4,2,1,0,0,0,0
+"Evans III, Jacob",SG,6.3,"$3,500",gsw,dal,home, 91-126,14:29,   0pt 4rb 1as 0-3fg,0,4,1,0,0,0,0
+"Carter, Jevon",PG,5,"$3,500",mem,min,home, 99-112,10:27,   2pt 2as 1-5fg,2,0,2,0,0,0,0
+"Bazemore, Kent",SG,4.2,"$3,900",atl,phi,home, 129-127,15:37,   3pt 1rb 1-7fg 1-3ft,3,1,0,0,0,0,0
+"Mitrou-Long, Nazareth",SG,3.5,"$3,500",uta,chi,away, 114-83,5:45,   2pt 1as 1-3fg,2,0,1,0,0,0,0
+"Lee, Courtney",SG,1.7,"$3,500",dal,gsw,away, 126-91,4:41,   0pt 1rb 1as 1to 0-1fg,0,1,1,0,0,1,0
+"Reynolds, Cameron",SG,0,"$3,500",min,mem,away, 112-99,3:26,   0pt 0-1fg,0,0,0,0,0,0,0
+"Macon, Daryl",PG,0,"$3,500",dal,gsw,away, 126-91,4:41,   0pt 0-1fg,0,0,0,0,0,0,0
+"Simons, Anfernee",SG,0,"$3,500",por,det,home, 117-112,DNP,   ,0,0,0,0,0,0,0
+"Robinson, Duncan",SG,0,"$3,500",mia,was,away, 113-108,DNP,   ,0,0,0,0,0,0,0
+"Mack, Shelvin",PG,0,"$3,500",cha,bos,home, 124-117,DNP,   ,0,0,0,0,0,0,0
+"Trent Jr., Gary",SG,0,"$3,500",por,det,home, 117-112,DNP,   ,0,0,0,0,0,0,0
+"Crawford, Jamal",SG,0,"$3,500",pho,sac,away, 103-112,DNP,   ,0,0,0,0,0,0,0
+"LaVine, Zach",SG,0,"$8,100",chi,uta,home, 83-114,DNP,   ,0,0,0,0,0,0,0
+"Wanamaker, Brad",PG,0,"$3,500",bos,cha,away, 117-124,DNP,   ,0,0,0,0,0,0,0
+"Burks, Alec",SG,0,"$3,500",sac,pho,home, 112-103,DNP,   ,0,0,0,0,0,0,0
+"Dozier, PJ",SG,0,"$3,500",bos,cha,away, 117-124,DNP,   ,0,0,0,0,0,0,0
+"Thomas, Khyri",SG,0,"$3,500",det,por,away, 112-117,DNP,   ,0,0,0,0,0,0,0
+"Terrell, Jared",SG,0,"$3,500",min,mem,away, 112-99,DNP,   ,0,0,0,0,0,0,0
+"McGruder, Rodney",SG,0,"$3,500",mia,was,away, 113-108,DNP,   ,0,0,0,0,0,0,0
+"Hunter, R.J.",SG,0,"$3,500",bos,cha,away, 117-124,DNP,   ,0,0,0,0,0,0,0
+"Williams, C.J.",SG,0,"$3,600",min,mem,away, 112-99,DNP,   ,0,0,0,0,0,0,0
+"Parker, Tony",PG,0,"$3,500",cha,bos,home, 124-117,DNP,   ,0,0,0,0,0,0,0
+"Chealey, Joe",PG,0,"$3,500",cha,bos,home, 124-117,NA,   ,0,0,0,0,0,0,0
+"Korkmaz, Furkan",SG,0,"$3,600",phi,atl,away, 127-129,NA,   ,0,0,0,0,0,0,0
+"Hardaway Jr., Tim",SG,0,"$3,500",dal,gsw,away, 126-91,NA,   ,0,0,0,0,0,0,0
+"Milton, Shake",SG,0,"$3,500",phi,atl,away, 127-129,NA,   ,0,0,0,0,0,0,0
+"Allen, Grayson",SG,0,"$3,500",uta,chi,away, 114-83,NA,   ,0,0,0,0,0,0,0
+"McCollum, C.J.",SG,0,"$8,000",por,det,home, 117-112,NA,   ,0,0,0,0,0,0,0
+"Bradley, Avery",SG,0,"$6,100",mem,min,home, 99-112,NA,   ,0,0,0,0,0,0,0
+"Alkins, Rawle",SG,0,"$3,500",chi,uta,home, 83-114,NA,   ,0,0,0,0,0,0,0
+"Calderon, Jose",PG,0,"$3,500",det,por,away, 112-117,NA,   ,0,0,0,0,0,0,0
+"Cooke, Charles",SG,0,"$3,500",mia,was,away, 113-108,NA,   ,0,0,0,0,0,0,0
+"Johnson, Tyler",PG,0,"$5,500",pho,sac,away, 103-112,NA,   ,0,0,0,0,0,0,0
+"Smith, Zhaire",SG,0,"$3,500",phi,atl,away, 127-129,NA,   ,0,0,0,0,0,0,0
+"Curry, Stephen",PG,0,"$9,900",gsw,dal,home, 91-126,NA,   ,0,0,0,0,0,0,0
+"Rose, Derrick",PG,0,"$3,500",min,mem,away, 112-99,NA,   ,0,0,0,0,0,0,0
+"Macura, J.P.",SG,0,"$3,500",cha,bos,home, 124-117,NA,   ,0,0,0,0,0,0,0
+"Livingston, Shaun",PG,0,"$3,500",gsw,dal,home, 91-126,NA,   ,0,0,0,0,0,0,0
+"Exum, Dante",PG,0,"$3,500",uta,chi,away, 114-83,NA,   ,0,0,0,0,0,0,0
+"Lucas, Kalin",PG,0,"$3,500",det,por,away, 112-117,NA,   ,0,0,0,0,0,0,0
+"Mykhailiuk, Sviatoslav",SG,0,"$3,500",det,por,away, 112-117,NA,   ,0,0,0,0,0,0,0
+"Teague, Jeff",PG,0,"$6,500",min,mem,away, 112-99,NA,   ,0,0,0,0,0,0,0
+"Whitehead, Isaiah",PG,0,"$3,500",det,por,away, 112-117,NA,   ,0,0,0,0,0,0,0
