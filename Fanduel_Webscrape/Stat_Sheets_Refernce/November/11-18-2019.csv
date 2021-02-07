@@ -1,0 +1,7 @@
+Name,Position,FDPoints,Salary,Team,Opp.,Home/Away,Score,Min,stats,Pts,Rbs,Ast,Stl,Blk,To,3PM,FGM,FGA,FTM,FTA
+"Doncic, Luka",PG,68.2,"$11,400",dal,sas,home, 117-110,35:15,   42pt 11rb 12as 5to 5trey 14-27fg 9-13ft,42,11,12,0,0,5,5,14,27fg,9,13ft
+"Westbrook, Russell",PG,62.6,"$9,400",hou,por,home, 132-108,34:16,   28pt 13rb 10as 2st 1bl 5to 3trey 9-26fg 7-9ft,28,13,10,2,1,5,3,9,26fg,7,9ft
+"Harden, James",SG,53.7,"$12,500",hou,por,home, 132-108,33:06,   36pt 6rb 5as 1st 1bl 3to 5trey 11-19fg 9-10ft,36,6,5,1,1,3,5,11,19fg,9,10ft
+"DeRozan, DeMar",SG,53.6,"$7,600",sas,dal,away, 110-117,33:35,   36pt 8rb 4as 1st 1to 14-20fg 8-8ft,36,8,4,1,0,1,0,14,20fg,8,8ft
+"Dinwiddie, Spencer",SG,49,"$5,800",bkn,ind,home, 86-115,33:26,   28pt 5rb 8as 1st 1bl 3to 4trey 9-21fg 6-7ft,28,5,8,1,1,3,4,9,21fg,6,7ft
+"Teague, Jeff",PG,40.3,"$6,200",min,uta,away, 112-102,35:35,   21pt 4rb 11as 2to 1trey 7-18fg 6-7ft,21,4,11,0,0,2,1,7,18fg,6,7ft

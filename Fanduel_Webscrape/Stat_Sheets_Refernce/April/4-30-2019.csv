@@ -1,0 +1,60 @@
+Name,Position,FDPoints,Salary,Team,Opp.,Score,Min,stats
+"Harden, James",SG,40.4,"$11,800",hou,@ gsw, 109-115,34:24,   29pt 7rb 4as 1st 6to 3trey 9-19fg 8-9ft
+"Paul, Chris",PG,40.4,"$8,200",hou,@ gsw, 109-115,40:23,   18pt 7rb 6as 3st 4to 2trey 6-14fg 4-4ft
+"Curry, Stephen",PG,37.1,"$9,000",gsw,v hou, 115-109,33:08,   20pt 3rb 5as 2st 1bl 3to 3trey 6-16fg 5-5ft
+"Thompson, Klay",SG,37,"$6,100",gsw,v hou, 115-109,41:23,   21pt 5rb 2as 3st 2to 3trey 8-18fg 2-2ft
+"Middleton, Khris",SG,36.9,"$7,500",mil,v bos, 123-102,32:34,   28pt 7rb 1as 1to 7trey 10-18fg 1-1ft
+"Bledsoe, Eric",PG,34.1,"$7,400",mil,v bos, 123-102,26:21,   21pt 3rb 5as 2bl 4to 3trey 7-12fg 4-4ft
+"Iguodala, Andre",SG,33,"$5,700",gsw,v hou, 115-109,32:22,   16pt 5rb 4as 1st 1bl 1to 2trey 6-9fg 2-4ft
+"Brown, Jaylen",SG,25.7,"$5,100",bos,@ mil, 102-123,33:18,   16pt 6rb 3as 2to 5-12fg 6-7ft
+"Rozier, Terry",PG,24.6,"$4,300",bos,@ mil, 102-123,24:44,   9pt 8rb 2as 1st 2-10fg 5-5ft
+"Irving, Kyrie",PG,24,"$9,600",bos,@ mil, 102-123,30:54,   9pt 5rb 4as 1st 1bl 3to 1trey 4-18fg
+"Connaughton, Pat",SG,21.7,"$4,200",mil,v bos, 123-102,29:31,   5pt 11rb 3as 1to 1trey 2-4fg
+"Rivers, Austin",SG,15.2,"$3,600",hou,@ gsw, 109-115,24:16,   14pt 1rb 2as 3to 4trey 5-8fg
+"Gordon, Eric",SG,13.2,"$5,500",hou,@ gsw, 109-115,36:27,   15pt 1rb 3to 3trey 6-13fg
+"Hill, George",PG,12.7,"$4,400",mil,v bos, 123-102,24:54,   10pt 1rb 1as 2trey 3-6fg 2-2ft
+"Livingston, Shaun",PG,11.7,"$3,500",gsw,v hou, 115-109,13:20,   6pt 1rb 1as 1st 3-7fg
+"Wanamaker, Brad",PG,11.5,"$3,500",bos,@ mil, 102-123,7:04,   7pt 1as 1st 1trey 2-4fg 2-2ft
+"Frazier, Tim",PG,3.7,"$3,500",mil,v bos, 123-102,5:22,   2pt 1rb 1as 1to 1-2fg
+"Shumpert, Iman",SG,3.6,"$3,500",hou,@ gsw, 109-115,4:32,   0pt 3rb 0-4fg
+"Snell, Tony",SG,3,"$3,500",mil,v bos, 123-102,5:22,   3pt 1trey 1-1fg
+"Brown, Sterling",SG,2.9,"$4,200",mil,v bos, 123-102,12:54,   0pt 2rb 1as 1to 0-3fg
+"Evans III, Jacob",SG,0,"$3,500",gsw,v hou, 115-109,DNP,   
+"Brogdon, Malcolm",SG,0,"$5,000",mil,v bos, 123-102,DNP,   
+"Cook, Quinn",PG,0,"$3,500",gsw,v hou, 115-109,DNP,   
+"Gibson, Jonathan",PG,0,"$3,500",bos,@ mil, 102-123,NA,   
+"Smart, Marcus",SG,0,"$3,500",bos,@ mil, 102-123,NA,   
+"Chiozza, Chris",PG,0,"$3,500",hou,@ gsw, 109-115,NA,   
+"DiVincenzo, Donte",SG,0,"$3,500",mil,v bos, 123-102,NA,   
+"Antetokounmpo, Giannis",SF,55,"$11,300",mil,v bos, 123-102,31:02,   29pt 10rb 4as 2st 1bl 1to 2trey 7-16fg 13-18ft
+"Durant, Kevin",SF,47,"$11,400",gsw,v hou, 115-109,43:45,   29pt 5rb 4as 1st 2bl 3to 3trey 9-22fg 8-10ft
+"Green, Draymond",PF,42.9,"$8,100",gsw,v hou, 115-109,38:54,   15pt 12rb 7as 2st 3to 6-10fg 3-3ft
+"Mirotic, Nikola",SF,34.8,"$3,900",mil,v bos, 123-102,24:51,   9pt 9rb 2as 3st 1bl 1trey 3-10fg 2-2ft
+"Tucker, P.J.",PF,31,"$5,900",hou,@ gsw, 109-115,41:15,   13pt 10rb 2as 1st 3trey 3-5fg 4-4ft
+"Morris, Marcus",PF,29.9,"$5,600",bos,@ mil, 102-123,24:52,   17pt 7rb 1as 1st 3trey 6-8fg 2-2ft
+"Ilyasova, Ersan",PF,14.8,"$4,300",mil,v bos, 123-102,17:47,   4pt 4rb 2as 1st 1-4fg 2-2ft
+"Tatum, Jayson",PF,14.5,"$6,400",bos,@ mil, 102-123,24:30,   5pt 5rb 1as 1st 1to 2-10fg 1-2ft
+"Looney, Kevon",PF,11.3,"$4,300",gsw,v hou, 115-109,15:50,   2pt 4rb 1as 1bl 1-1fg
+"Jerebko, Jonas",PF,10,"$3,500",gsw,v hou, 115-109,9:44,   4pt 5rb 2-4fg
+"Yabusele, Guerschon",PF,9.5,"$3,500",bos,@ mil, 102-123,5:22,   6pt 1as 1bl 1to 2-2fg 2-3ft
+"Hayward, Gordon",SF,8.5,"$5,900",bos,@ mil, 102-123,30:38,   5pt 3as 1to 1trey 1-5fg 2-2ft
+"Green, Gerald",SF,6,"$3,500",hou,@ gsw, 109-115,10:56,   6pt 2trey 2-4fg
+"McKinnie, Alfonzo",SF,5.6,"$3,500",gsw,v hou, 115-109,9:05,   2pt 3rb 1-3fg
+"Ojeleye, Semi",SF,5,"$3,500",bos,@ mil, 102-123,10:38,   5pt 1trey 1-2fg 2-2ft
+"Wilson, D.J.",PF,3.9,"$3,500",mil,v bos, 123-102,5:22,   2pt 2rb 1as 2to 1-3fg
+"Faried, Kenneth",PF,2.7,"$3,600",hou,@ gsw, 109-115,5:22,   0pt 1rb 1as 0-1fg
+"House, Danuel",SF,0,"$3,600",hou,@ gsw, 109-115,5:12,   0pt 0-2fg
+"Clark, Gary",SF,0,"$3,500",hou,@ gsw, 109-115,DNP,   
+"Theis, Daniel",PF,0,"$3,500",bos,@ mil, 102-123,DNP,   
+"Hartenstein, Isaiah",PF,0,"$3,500",hou,@ gsw, 109-115,DNP,   
+"Capela, Clint",C,34,"$7,500",hou,@ gsw, 109-115,32:50,   14pt 10rb 2as 2bl 1to 5-7fg 4-8ft
+"Horford, Al",C,24.1,"$7,000",bos,@ mil, 102-123,28:54,   15pt 8rb 3as 5to 3trey 6-10fg
+"Lopez, Brook",C,16.3,"$5,800",mil,v bos, 123-102,24:00,   10pt 4rb 1as 3trey 3-10fg 1-2ft
+"Williams, Robert",C,10,"$3,500",bos,@ mil, 102-123,8:59,   4pt 5rb 1-2fg 2-2ft
+"Baynes, Aron",C,8.2,"$3,600",bos,@ mil, 102-123,10:07,   4pt 1rb 1bl 2-3fg
+"Bogut, Andrew",C,2.4,"$4,400",gsw,v hou, 115-109,2:29,   0pt 2rb 0-1fg
+"Hilario, Nene",C,1.2,"$3,700",hou,@ gsw, 109-115,4:23,   0pt 1rb
+"Bell, Jordan",C,0,"$3,500",gsw,v hou, 115-109,DNP,   
+"Cousins, DeMarcus",C,0,"$3,500",gsw,v hou, 115-109,NA,   
+"Jones, Damian",C,0,"$3,500",gsw,v hou, 115-109,NA,   
+"Gasol, Pau",C,0,"$3,500",mil,v bos, 123-102,NA,   

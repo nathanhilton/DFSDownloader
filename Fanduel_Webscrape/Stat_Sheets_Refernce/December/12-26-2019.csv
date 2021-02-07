@@ -1,0 +1,14 @@
+Name,Position,FDPoints,Salary,Team,Opp.,Home/Away,Score,Min,stats,Pts,Rbs,Ast,Stl,Blk,To,3PM,FGM,FGA,FTM,FTA
+"Paul, Chris",PG,52.7,"$7,000",okc,mem,home, 97-110,33:45,   23pt 6rb 11as 3st 3to 2trey 9-15fg 3-3ft,23,6,11,3,0,3,2,9,15fg,3,3ft
+"Lillard, Damian",PG,49.8,"$9,100",por,uta,away, 115-121,37:28,   34pt 4rb 8as 1to 7trey 10-21fg 7-8ft,34,4,8,0,0,1,7,10,21fg,7,8ft
+"Doncic, Luka",PG,48,"$10,500",dal,sas,home, 102-98,32:39,   24pt 10rb 8as 1st 3to 1trey 9-23fg 5-8ft,24,10,8,1,0,3,1,9,23fg,5,8ft
+"Mitchell, Donovan",SG,47.1,"$7,600",uta,por,home, 121-115,38:25,   35pt 3rb 7as 2to 3trey 12-19fg 8-11ft,35,3,7,0,0,2,3,12,19fg,8,11ft
+"Bogdanovic, Bogdan",SG,41.4,"$4,500",sac,min,home, 104-105,43:20,   19pt 7rb 2as 1st 3bl 1to 3trey 8-28fg 0-2ft,19,7,2,1,3,1,3,8,28fg,0,2ft
+"Wiggins, Andrew",SG,37.5,"$7,300",min,sac,away, 105-104,43:37,   18pt 10rb 7as 3to 2trey 4-19fg 8-10ft,18,10,7,0,0,3,2,4,19fg,8,10ft
+"McCollum, C.J.",SG,34.8,"$7,100",por,uta,away, 115-121,38:10,   25pt 4rb 2as 1st 1to 3trey 10-23fg 2-2ft,25,4,2,1,0,1,3,10,23fg,2,2ft
+"Gilgeous-Alexander, Shai",SG,34.1,"$6,700",okc,mem,home, 97-110,37:08,   21pt 3rb 1as 3st 1to 1trey 8-19fg 4-4ft,21,3,1,3,0,1,1,8,19fg,4,4ft
+"Dinwiddie, Spencer",PG,34.1,"$8,100",bkn,nyk,home, 82-94,31:38,   25pt 8rb 3as 5to 3trey 5-15fg 12-17ft,25,8,3,0,0,5,3,5,15fg,12,17ft
+"DeRozan, DeMar",SG,34,"$6,800",sas,dal,away, 98-102,34:59,   21pt 5rb 4as 1st 2to 8-15fg 5-6ft,21,5,4,1,0,2,0,8,15fg,5,6ft
+"Payton, Elfrid",PG,29.4,"$5,400",nyk,bkn,away, 94-82,31:48,   13pt 7rb 4as 1st 1to 1trey 6-12fg 0-1ft,13,7,4,1,0,1,1,6,12fg,0,1ft
+"Schroder, Dennis",SG,28.1,"$6,300",okc,mem,home, 97-110,32:29,   20pt 3rb 3as 1st 3to 2trey 8-21fg 2-2ft,20,3,3,1,0,3,2,8,21fg,2,2ft
+"Frazier, Tim",PG,27.4,"$3,900",det,was,home, 132-102,26:55,   17pt 2rb 6as 1to 5trey 5-8fg 2-2ft,17,2,6,0,0,1,5,5,8fg,2,2ft

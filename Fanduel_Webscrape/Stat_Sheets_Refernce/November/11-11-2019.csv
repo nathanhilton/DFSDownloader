@@ -1,0 +1,31 @@
+Name,Position,FDPoints,Salary,Team,Opp.,Home/Away,Score,Min,stats,Pts,Rbs,Ast,Stl,Blk,To,3PM,FGM,FGA,FTM,FTA
+"Harden, James",SG,60.3,"$12,000",hou,nor,away, 122-116,38:16,   39pt 4rb 9as 2st 1bl 6to 3trey 13-25fg 10-14ft,39,4,9,2,1,6,3,13,25fg,10,14ft
+"Doncic, Luka",PG,53.7,"$10,700",dal,bos,away, 106-116,33:47,   34pt 6rb 9as 1to 3trey 11-21fg 9-10ft,34,6,9,0,0,1,3,11,21fg,9,10ft
+"Wiggins, Andrew",SG,51.7,"$8,000",min,det,away, 120-114,35:57,   33pt 6rb 5as 1st 1bl 2to 3trey 12-20fg 6-8ft,33,6,5,1,1,2,3,12,20fg,6,8ft
+"Russell, D'Angelo",SG,47.4,"$8,900",gsw,uta,home, 108-122,32:20,   33pt 2rb 8as 1st 3to 5trey 13-25fg 2-5ft,33,2,8,1,0,3,5,13,25fg,2,5ft
+"Holiday, Jrue",SG,45.3,"$8,300",nor,hou,home, 116-122,38:20,   18pt 9rb 11as 1st 1bl 6to 6-21fg 6-8ft,18,9,11,1,1,6,0,6,21fg,6,8ft
+"Westbrook, Russell",PG,44,"$9,900",hou,nor,away, 122-116,35:22,   26pt 5rb 4as 4st 6to 1trey 11-21fg 3-4ft,26,5,4,4,0,6,1,11,21fg,3,4ft
+"Walker, Kemba",PG,42.5,"$9,000",bos,dal,home, 116-106,33:07,   29pt 5rb 5as 1bl 3to 8trey 9-17fg 3-4ft,29,5,5,0,1,3,8,9,17fg,3,4ft
+"Brown, Jaylen",SG,41.7,"$6,400",bos,dal,home, 116-106,38:09,   25pt 11rb 3as 1to 2trey 9-16fg 5-7ft,25,11,3,0,0,1,2,9,16fg,5,7ft
+"Mitchell, Donovan",SG,39.6,"$8,200",uta,gsw,away, 122-108,33:01,   23pt 8rb 6as 2to 5trey 7-17fg 4-4ft,23,8,6,0,0,2,5,7,17fg,4,4ft
+"VanVleet, Fred",SG,34.4,"$6,900",tor,lac,away, 88-98,45:26,   14pt 2rb 8as 3st 3to 1trey 6-20fg 1-2ft,14,2,8,3,0,3,1,6,20fg,1,2ft
+"Conley, Mike",PG,33.7,"$6,800",uta,gsw,away, 122-108,31:13,   22pt 1rb 7as 5trey 6-11fg 5-5ft,22,1,7,0,0,0,5,6,11fg,5,5ft
+"Brooks, Dillon",SG,32.9,"$4,900",mem,sas,away, 113-109,35:26,   21pt 2rb 3as 2st 1to 1trey 8-17fg 4-6ft,21,2,3,2,0,1,1,8,17fg,4,6ft
+"Williams, Louis",SG,32.8,"$7,500",lac,tor,home, 98-88,35:46,   21pt 4rb 4as 1st 2to 2trey 7-15fg 5-6ft,21,4,4,1,0,2,2,7,15fg,5,6ft
+"Hart, Josh",SG,32.8,"$5,400",nor,hou,home, 116-122,29:57,   19pt 4rb 4as 2st 3to 4trey 5-8fg 5-8ft,19,4,4,2,0,3,4,5,8fg,5,8ft
+"DeRozan, DeMar",SG,28.9,"$7,900",sas,mem,home, 109-113,34:31,   12pt 7rb 7as 2to 6-15fg 0-1ft,12,7,7,0,0,2,0,6,15fg,0,1ft
+"Smart, Marcus",SG,28.2,"$5,400",bos,dal,home, 116-106,36:33,   17pt 1rb 6as 1bl 2to 4trey 6-9fg 1-1ft,17,1,6,0,1,2,4,6,9fg,1,1ft
+"White, Derrick",PG,28.1,"$4,400",sas,mem,home, 109-113,28:44,   15pt 3rb 5as 1bl 1to 2trey 5-13fg 3-3ft,15,3,5,0,1,1,2,5,13fg,3,3ft
+"Redick, J.J.",SG,27.5,"$4,500",nor,hou,home, 116-122,36:57,   24pt 3as 1to 7trey 7-16fg 3-3ft,24,0,3,0,0,1,7,7,16fg,3,3ft
+"Brunson, Jalen",PG,26.4,"$4,100",dal,bos,away, 106-116,27:10,   12pt 7rb 2as 1st 1trey 4-7fg 3-4ft,12,7,2,1,0,0,1,4,7fg,3,4ft
+"Beverley, Patrick",PG,24.4,"$5,300",lac,tor,home, 98-88,23:46,   6pt 12rb 2as 1st 2to 2-6fg 2-4ft,6,12,2,1,0,2,0,2,6fg,2,4ft
+"Galloway, Langston",SG,24.2,"$4,100",det,min,home, 114-120,24:53,   18pt 1rb 2as 1bl 1to 4trey 7-11fg 0-1ft,18,1,2,0,1,1,4,7,11fg,0,1ft
+"Powell, Norman",SG,23.8,"$4,300",tor,lac,away, 88-98,37:13,   15pt 4rb 2as 1bl 2to 1trey 5-12fg 4-5ft,15,4,2,0,1,2,1,5,12fg,4,5ft
+"Wright, Delon",SG,22.8,"$4,600",dal,bos,away, 106-116,21:11,   9pt 4rb 2as 1st 1bl 3-5fg 3-4ft,9,4,2,1,1,0,0,3,5fg,3,4ft
+"Snell, Tony",SG,22.7,"$3,900",det,min,home, 114-120,30:59,   16pt 1rb 3as 1st 2to 4trey 5-7fg 2-2ft,16,1,3,1,0,2,4,5,7fg,2,2ft
+"Poole, Jordan",SG,19.2,"$4,400",gsw,uta,home, 108-122,32:16,   11pt 6rb 2as 2to 1trey 5-11fg 0-1ft,11,6,2,0,0,2,1,5,11fg,0,1ft
+"Murray, Dejounte",PG,19.2,"$6,700",sas,mem,home, 109-113,19:16,   4pt 6rb 4as 1st 1bl 4to 1-3fg 2-3ft,4,6,4,1,1,4,0,1,3fg,2,3ft
+"Morant, Ja",PG,18.3,"$7,600",mem,sas,away, 113-109,24:42,   9pt 4rb 3as 1trey 2-12fg 4-6ft,9,4,3,0,0,0,1,2,12fg,4,6ft
+"Wanamaker, Brad",PG,17.8,"$3,800",bos,dal,home, 116-106,21:04,   10pt 4rb 2as 4-7fg 2-2ft,10,4,2,0,0,0,0,4,7fg,2,2ft
+"Green, Javonte",SG,17.4,"$3,500",bos,dal,home, 116-106,13:25,   9pt 2rb 2st 1trey 4-8fg 0-1ft,9,2,0,2,0,0,1,4,8fg,0,1ft
+"Jones, Tyus",PG,17.2,"$4,500",mem,sas,away, 113-109,23:04,   8pt 1rb 6as 1to 3-10fg 2-2ft,8,1,6,0,0,1,0,3,10fg,2,2ft

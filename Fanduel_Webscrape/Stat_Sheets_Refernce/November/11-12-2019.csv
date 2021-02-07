@@ -1,0 +1,30 @@
+Name,Position,FDPoints,Salary,Team,Opp.,Home/Away,Score,Min,stats,Pts,Rbs,Ast,Stl,Blk,To,3PM,FGM,FGA,FTM,FTA
+"Young, Trae",PG,60.3,"$9,600",atl,den,away, 125-121,41:20,   42pt 4rb 11as 1bl 6to 8trey 13-21fg 8-11ft,42,4,11,0,1,6,8,13,21fg,8,11ft
+"Bogdanovic, Bogdan",SG,52.6,"$5,600",sac,por,home, 107-99,31:49,   25pt 3rb 10as 4st 3to 3trey 8-19fg 6-7ft,25,3,10,4,0,3,3,8,19fg,6,7ft
+"Butler, Jimmy",SG,49.1,"$9,400",mia,det,home, 117-108,38:57,   20pt 3rb 13as 2st 6-13fg 8-11ft,20,3,13,2,0,0,0,6,13fg,8,11ft
+"Barrett, RJ",SG,45.7,"$6,900",nyk,chi,away, 102-120,31:39,   21pt 6rb 9as 2st 2to 2trey 8-16fg 3-6ft,21,6,9,2,0,2,2,8,16fg,3,6ft
+"Lillard, Damian",PG,43.3,"$10,500",por,sac,away, 99-107,37:34,   27pt 4rb 5as 2st 1bl 5to 2trey 6-10fg 13-14ft,27,4,5,2,1,5,2,6,10fg,13,14ft
+"Mitchell, Donovan",SG,41.2,"$8,400",uta,bkn,home, 119-114,37:44,   30pt 6rb 2as 1st 2to 13-26fg 4-4ft,30,6,2,1,0,2,0,13,26fg,4,4ft
+"Irving, Kyrie",PG,40.1,"$9,900",bkn,uta,away, 114-119,36:41,   27pt 3rb 5as 1st 1bl 4to 2trey 10-30fg 5-5ft,27,3,5,1,1,4,2,10,30fg,5,5ft
+"Rubio, Ricky",PG,39.8,"$7,700",pho,lal,home, 115-123,38:45,   21pt 4rb 10as 1to 3trey 8-17fg 2-2ft,21,4,10,0,0,1,3,8,17fg,2,2ft
+"Murray, Jamal",PG,39.6,"$7,200",den,atl,home, 121-125,33:19,   18pt 3rb 8as 1st 1bl 7-16fg 4-4ft,18,3,8,1,1,0,0,7,16fg,4,4ft
+"Simmons, Ben",PG,38,"$8,000",phi,cle,home, 98-97,34:59,   15pt 5rb 6as 2st 2bl 4to 7-9fg 1-3ft,15,5,6,2,2,4,0,7,9fg,1,3ft
+"Booker, Devin",SG,36.1,"$8,800",pho,lal,home, 115-123,39:12,   21pt 3rb 9as 1bl 5to 9-18fg 3-3ft,21,3,9,0,1,5,0,9,18fg,3,3ft
+"LaVine, Zach",SG,34.9,"$7,900",chi,nyk,home, 120-102,30:39,   25pt 2rb 5as 1st 3to 3trey 9-19fg 4-5ft,25,2,5,1,0,3,3,9,19fg,4,5ft
+"White, Coby",PG,34.1,"$4,200",chi,nyk,home, 120-102,27:07,   27pt 3rb 1as 1st 1to 7trey 8-14fg 4-4ft,27,3,1,1,0,1,7,8,14fg,4,4ft
+"McCollum, C.J.",SG,33.5,"$7,400",por,sac,away, 99-107,36:47,   24pt 5rb 1as 1bl 1to 1trey 11-21fg 1-4ft,24,5,1,0,1,1,1,11,21fg,1,4ft
+"Nunn, Kendrick",PG,33.1,"$5,000",mia,det,home, 117-108,36:39,   20pt 3rb 5as 2st 4to 4trey 6-16fg 4-5ft,20,3,5,2,0,4,4,6,16fg,4,5ft
+"Sexton, Collin",PG,32,"$5,600",cle,phi,away, 97-98,33:18,   18pt 5rb 4as 2st 4to 8-18fg 2-2ft,18,5,4,2,0,4,0,8,18fg,2,2ft
+"Dunn, Kris",PG,32,"$4,400",chi,nyk,home, 120-102,19:15,   13pt 5rb 2as 3st 1bl 2to 1trey 5-6fg 2-2ft,13,5,2,3,1,2,1,5,6fg,2,2ft
+"Brogdon, Malcolm",PG,31.7,"$8,700",ind,okc,home, 111-85,25:27,   20pt 6rb 5as 3to 2trey 8-16fg 2-2ft,20,6,5,0,0,3,2,8,16fg,2,2ft
+"Holiday, Aaron",PG,31.6,"$4,100",ind,okc,home, 111-85,31:27,   17pt 3rb 4as 2st 1to 2trey 6-10fg 3-3ft,17,3,4,2,0,1,2,6,10fg,3,3ft
+"Paul, Chris",PG,31,"$6,600",okc,ind,away, 85-111,24:58,   7pt 5rb 8as 3st 3to 2-7fg 3-4ft,7,5,8,3,0,3,0,2,7fg,3,4ft
+"Dragic, Goran",PG,30.2,"$6,200",mia,det,home, 117-108,32:55,   18pt 1rb 6as 1st 1to 3trey 6-13fg 3-4ft,18,1,6,1,0,1,3,6,13fg,3,4ft
+"Conley, Mike",PG,28.3,"$6,800",uta,bkn,home, 119-114,30:03,   18pt 4rb 5as 2to 6-15fg 6-9ft,18,4,5,0,0,2,0,6,15fg,6,9ft
+"Clarkson, Jordan",SG,26.8,"$4,800",cle,phi,away, 97-98,26:13,   20pt 4rb 2as 1to 1trey 8-16fg 3-5ft,20,4,2,0,0,1,1,8,16fg,3,5ft
+"Morris, Monte",PG,26.6,"$3,600",den,atl,home, 121-125,21:54,   14pt 3rb 4as 1bl 1trey 6-11fg 1-1ft,14,3,4,0,1,0,1,6,11fg,1,1ft
+"Richardson, Josh",SG,25.7,"$6,600",phi,cle,home, 98-97,34:11,   17pt 1rb 5as 1st 3to 1trey 7-17fg 2-2ft,17,1,5,1,0,3,1,7,17fg,2,2ft
+"Arcidiacono, Ryan",PG,25.6,"$3,500",chi,nyk,home, 120-102,21:10,   5pt 3rb 8as 2st 1to 1-3fg 3-4ft,5,3,8,2,0,1,0,1,3fg,3,4ft
+"Dinwiddie, Spencer",SG,25.2,"$5,500",bkn,uta,away, 114-119,23:44,   21pt 1rb 4as 3to 2trey 7-16fg 5-7ft,21,1,4,0,0,3,2,7,16fg,5,7ft
+"Mudiay, Emmanuel",PG,24.6,"$3,700",uta,bkn,home, 119-114,17:57,   15pt 3rb 2as 1st 4-8fg 7-8ft,15,3,2,1,0,0,0,4,8fg,7,8ft
+"Hield, Buddy",SG,23.3,"$7,000",sac,por,home, 107-99,37:00,   20pt 4rb 1as 3to 2trey 7-21fg 4-4ft,20,4,1,0,0,3,2,7,21fg,4,4ft

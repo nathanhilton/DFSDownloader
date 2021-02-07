@@ -1,0 +1,11 @@
+Name,Position,FDPoints,Salary,Team,Opp.,Home/Away,Score,Min,stats,Pts,Rbs,Ast,Stl,Blk,To,3PM,FGM,FGA,FTM,FTA
+"Westbrook, Russell",PG,68.3,"$9,400",hou,pho,home, 115-109,37:15,   24pt 14rb 11as 3st 2bl 4to 1trey 10-18fg 3-4ft,24,14,11,3,2,4,1,10,18fg,3,4ft
+"Harden, James",SG,59.2,"$12,100",hou,pho,home, 115-109,39:04,   34pt 6rb 4as 3st 1bl 3trey 8-27fg 15-18ft,34,6,4,3,1,0,3,8,27fg,15,18ft
+"Simmons, Ben",PG,59.1,"$9,300",phi,cle,home, 141-94,25:39,   34pt 3rb 7as 2st 2bl 1to 1trey 12-14fg 9-12ft,34,3,7,2,2,1,1,12,14fg,9,12ft
+"Booker, Devin",SG,49.3,"$8,200",pho,hou,away, 109-115,37:11,   35pt 4rb 5as 1st 1to 2trey 11-19fg 11-16ft,35,4,5,1,0,1,2,11,19fg,11,16ft
+"Doncic, Luka",PG,47.7,"$12,000",dal,nor,home, 130-84,26:11,   26pt 6rb 9as 1st 2to 2trey 8-15fg 8-10ft,26,6,9,1,0,2,2,8,15fg,8,10ft
+"Burke, Trey",PG,47.4,"$3,500",phi,cle,home, 141-94,26:35,   21pt 2rb 8as 4st 1trey 9-12fg 2-3ft,21,2,8,4,0,0,1,9,12fg,2,3ft
+"Rubio, Ricky",PG,35.7,"$7,600",pho,hou,away, 109-115,35:45,   10pt 6rb 13as 1bl 4to 5-16fg 0-1ft,10,6,13,0,1,4,0,5,16fg,0,1ft
+"Payton, Elfrid",PG,34.1,"$4,400",nyk,ind,home, 103-104,17:25,   9pt 3rb 7as 3st 1bl 1to 1trey 3-7fg 2-2ft,9,3,7,3,1,1,1,3,7fg,2,2ft
+"Barrett, RJ",SG,31.3,"$5,700",nyk,ind,home, 103-104,36:22,   12pt 9rb 3as 1st 1bl 2to 1trey 4-11fg 3-6ft,12,9,3,1,1,2,1,4,11fg,3,6ft
+"McLemore, Ben",SG,28.4,"$4,500",hou,pho,home, 115-109,29:59,   27pt 2rb 1st 4to 5trey 10-15fg 2-2ft,27,2,0,1,0,4,5,10,15fg,2,2ft

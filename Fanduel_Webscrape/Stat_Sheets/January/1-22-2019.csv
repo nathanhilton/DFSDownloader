@@ -1,0 +1,866 @@
+Name,Position,FDPoints,Salary,Team,Opp.,Home/Away,Score,Min,stats,Pts,Rbs,Ast,Stl,Blk,To,3PM,FGM,FGA,FTM,FTA
+"Lillard, Damian",PG,62,"$9,300",por,okc,away, 114-123,40:24,   34pt 5rb 8as 5st 5to 2trey 12-24fg 8-8ft,34,5,8,5,0,5,2,12,24,8,8
+"Westbrook, Russell",PG,60,"$12,500",okc,por,home, 123-114,36:43,   29pt 10rb 14as 1st 5to 1trey 9-20fg 10-12ft,29,10,14,1,0,5,1,9,20,10,12
+"Bogdanovic, Bogdan",SG,47.1,"$5,900",sac,tor,away, 105-120,36:04,   16pt 8rb 9as 3st 1to 1trey 6-15fg 3-4ft,16,8,9,3,0,1,1,6,15,3,4
+"VanVleet, Fred",PG,41.9,"$4,800",tor,sac,home, 120-105,32:11,   19pt 7rb 7as 1st 1bl 2to 3trey 6-10fg 4-5ft,19,7,7,1,1,2,3,6,10,4,5
+"McCollum, C.J.",SG,38.1,"$6,500",por,okc,away, 114-123,38:10,   31pt 3rb 3as 1bl 4to 7trey 11-23fg 2-2ft,31,3,3,0,1,4,7,11,23,2,2
+"Doncic, Luka",SG,37.4,"$8,900",dal,lac,home, 106-98,32:18,   17pt 7rb 6as 1st 1bl 3to 5-15fg 7-10ft,17,7,6,1,1,3,0,5,15,7,10
+"Lowry, Kyle",PG,36.3,"$8,300",tor,sac,home, 120-105,34:08,   19pt 4rb 9as 1bl 4to 4trey 6-15fg 3-3ft,19,4,9,0,1,4,4,6,15,3,3
+"Bayless, Jerryd",PG,35.3,"$3,600",min,pho,away, 118-91,28:22,   14pt 4rb 7as 2st 4trey 5-16fg,14,4,7,2,0,0,4,5,16,0,0
+"Okogie, Josh",SG,35,"$4,200",min,pho,away, 118-91,24:57,   21pt 5rb 2as 2st 1to 4trey 7-11fg 3-3ft,21,5,2,2,0,1,4,7,11,3,3
+"Beverley, Patrick",PG,34.3,"$4,700",lac,dal,away, 98-106,35:16,   16pt 9rb 3as 1st 3trey 6-14fg 1-3ft,16,9,3,1,0,0,3,6,14,1,3
+"Smith Jr., Dennis",PG,31.6,"$5,200",dal,lac,home, 106-98,36:44,   17pt 8rb 4as 1st 4to 1trey 6-17fg 4-4ft,17,8,4,1,0,4,1,6,17,4,4
+"Ferrell, Yogi",PG,31.4,"$3,500",sac,tor,away, 105-120,38:30,   10pt 7rb 6as 2st 2to 2trey 4-13fg,10,7,6,2,0,2,2,4,13,0,0
+"Ferguson, Terrance",SG,28.9,"$4,000",okc,por,home, 123-114,36:30,   14pt 2rb 1as 4st 1to 2trey 6-8fg,14,2,1,4,0,1,2,6,8,0,0
+"Wiggins, Andrew",SG,28.8,"$6,100",min,pho,away, 118-91,33:47,   17pt 9rb 2as 2to 1trey 7-18fg 2-4ft,17,9,2,0,0,2,1,7,18,2,4
+"Hield, Buddy",SG,28.1,"$6,000",sac,tor,away, 105-120,35:27,   15pt 3rb 5as 1st 1bl 4to 2trey 5-14fg 3-3ft,15,3,5,1,1,4,2,5,14,3,3
+"Booker, Devin",SG,25.6,"$7,900",pho,min,home, 91-118,24:12,   14pt 3rb 4as 1st 1bl 4to 6-11fg 2-2ft,14,3,4,1,1,4,0,6,11,2,2
+"Bradley, Avery",SG,24.5,"$3,900",lac,dal,away, 98-106,38:30,   15pt 5rb 3as 1to 3trey 5-11fg 2-2ft,15,5,3,0,0,1,3,5,11,2,2
+"Harris, Devin",PG,23.1,"$3,500",dal,lac,home, 106-98,17:18,   13pt 3rb 3as 1st 1to 2trey 5-8fg 1-2ft,13,3,3,1,0,1,2,5,8,1,2
+"Williams, Louis",SG,20.2,"$6,700",lac,dal,away, 98-106,23:28,   15pt 1rb 4as 2to 1trey 5-16fg 4-4ft,15,1,4,0,0,2,1,5,16,4,4
+"Schroder, Dennis",SG,20.2,"$6,200",okc,por,home, 123-114,22:45,   13pt 1rb 2as 1st 1trey 5-13fg 2-4ft,13,1,2,1,0,0,1,5,13,2,4
+"Wright, Delon",SG,19.2,"$4,500",tor,sac,home, 120-105,24:22,   9pt 6rb 2as 1st 3to 1trey 2-6fg 4-5ft,9,6,2,1,0,3,1,2,6,4,5
+"Rose, Derrick",PG,16.7,"$6,600",min,pho,away, 118-91,23:14,   6pt 1rb 5as 1st 1to 3-9fg,6,1,5,1,0,1,0,3,9,0,0
+"Green, Danny",SG,15.9,"$5,000",tor,sac,home, 120-105,22:43,   6pt 2rb 1as 1st 1bl 2trey 2-8fg,6,2,1,1,1,0,2,2,8,0,0
+"Melton, De'Anthony",PG,14.7,"$4,400",pho,min,home, 91-118,22:16,   4pt 1rb 3as 2st 1to 2-6fg,4,1,3,2,0,1,0,2,6,0,0
+"McLemore, Ben",SG,14.4,"$3,700",sac,tor,away, 105-120,12:55,   10pt 2rb 1bl 1to 2trey 3-4fg 2-3ft,10,2,0,0,1,1,2,3,4,2,3
+"Daniels, Troy",SG,14.2,"$3,500",pho,min,home, 91-118,17:24,   7pt 1rb 1st 1bl 1trey 3-7fg,7,1,0,1,1,0,1,3,7,0,0
+"Gilgeous-Alexander, Shai",PG,13.7,"$3,900",lac,dal,away, 98-106,20:22,   8pt 1rb 1as 1bl 4-14fg,8,1,1,0,1,0,0,4,14,0,0
+"Matthews, Wes",SG,11.7,"$4,300",dal,lac,home, 106-98,32:52,   9pt 1rb 1as 1trey 3-9fg 2-5ft,9,1,1,0,0,0,1,3,9,2,5
+"Robinson, Jerome",PG,9.9,"$3,500",lac,dal,away, 98-106,9:33,   3pt 2rb 1as 1st 1trey 1-2fg,3,2,1,1,0,0,1,1,2,0,0
+"Mason III, Frank",SG,7.5,"$3,500",sac,tor,away, 105-120,9:30,   2pt 3as 1st 2to 1-3fg,2,0,3,1,0,2,0,1,3,0,0
+"Crawford, Jamal",SG,7.2,"$3,500",pho,min,home, 91-118,21:35,   0pt 1rb 4as 0-4fg,0,1,4,0,0,0,0,0,4,0,0
+"McCaw, Patrick",SG,7.1,"$3,500",tor,sac,home, 120-105,7:23,   0pt 3rb 1as 1st 1to 0-2fg,0,3,1,1,0,1,0,0,2,0,0
+"Terrell, Jared",SG,5.5,"$3,500",min,pho,away, 118-91,5:36,   5pt 1as 1to 1trey 2-3fg,5,0,1,0,0,1,1,2,3,0,0
+"Wallace, Tyrone",SG,5.2,"$3,500",lac,dal,away, 98-106,9:36,   4pt 1rb 1-5fg 2-2ft,4,1,0,0,0,0,0,1,5,2,2
+"Williams, C.J.",SG,4.7,"$3,500",min,pho,away, 118-91,5:36,   3pt 1rb 1as 1to 1trey 1-1fg,3,1,1,0,0,1,1,1,1,0,0
+"Thornwell, Sindarius",SG,4.2,"$3,500",lac,dal,away, 98-106,7:23,   3pt 1rb 1-1fg 1-4ft,3,1,0,0,0,0,0,1,1,1,4
+"Curry, Seth",PG,3.2,"$3,500",por,okc,away, 114-123,12:29,   2pt 1rb 1-2fg,2,1,0,0,0,0,0,1,2,0,0
+"Brunson, Jalen",PG,0,"$3,700",dal,lac,home, 106-98,3:47,   0pt,0,0,0,0,0,0,0,0,0,0,0
+"Richardson, Malachi",SG,0,"$3,500",tor,sac,home, 120-105,1:29,   0pt,0,0,0,0,0,0,0,0,0,0,0
+"Loyd, Jordan",PG,0,"$3,500",tor,sac,home, 120-105,1:29,   0pt 0-1fg,0,0,0,0,0,0,0,0,1,0,0
+"Okobo, Elie",PG,0,"$3,600",pho,min,home, 91-118,3:48,   0pt 0-4fg,0,0,0,0,0,0,0,0,4,0,0
+"Felton, Raymond",PG,0,"$3,500",okc,por,home, 123-114,DNP,   ,0,0,0,0,0,0,0,0,0,0,0
+"Stauskas, Nik",SG,0,"$3,500",por,okc,away, 114-123,DNP,   ,0,0,0,0,0,0,0,0,0,0,0
+"Baldwin, Wade",PG,0,"$3,500",por,okc,away, 114-123,DNP,   ,0,0,0,0,0,0,0,0,0,0,0
+"Shumpert, Iman",SG,0,"$3,800",sac,tor,away, 105-120,DNP,   ,0,0,0,0,0,0,0,0,0,0,0
+"Diallo, Hamidou",SG,0,"$3,500",okc,por,home, 123-114,DNP,   ,0,0,0,0,0,0,0,0,0,0,0
+"Luwawu, Timothe",SG,0,"$3,500",okc,por,home, 123-114,DNP,   ,0,0,0,0,0,0,0,0,0,0,0
+"Fox, De'Aaron",PG,0,"$8,000",sac,tor,away, 105-120,DNP,   ,0,0,0,0,0,0,0,0,0,0,0
+"Abrines, Alex",SG,0,"$3,600",okc,por,home, 123-114,DNP,   ,0,0,0,0,0,0,0,0,0,0,0
+"Teodosic, Milos",PG,0,"$3,500",lac,dal,away, 98-106,NA,   ,0,0,0,0,0,0,0,0,0,0,0
+"Macon, Daryl",PG,0,"$3,500",dal,lac,home, 106-98,NA,   ,0,0,0,0,0,0,0,0,0,0,0
+"Simons, Anfernee",SG,0,"$3,500",por,okc,away, 114-123,NA,   ,0,0,0,0,0,0,0,0,0,0,0
+"Burton, Deonte",SG,0,"$3,500",okc,por,home, 123-114,NA,   ,0,0,0,0,0,0,0,0,0,0,0
+"Evans, Jawun",PG,0,"$3,500",pho,min,home, 91-118,NA,   ,0,0,0,0,0,0,0,0,0,0,0
+"Roberson, Andre",SG,0,"$3,500",okc,por,home, 123-114,NA,   ,0,0,0,0,0,0,0,0,0,0,0
+"Trent Jr., Gary",SG,0,"$3,500",por,okc,away, 114-123,NA,   ,0,0,0,0,0,0,0,0,0,0,0
+"Barea, Jose",PG,0,"$3,500",dal,lac,home, 106-98,NA,   ,0,0,0,0,0,0,0,0,0,0,0
+"Teague, Jeff",PG,0,"$6,300",min,pho,away, 118-91,NA,   ,0,0,0,0,0,0,0,0,0,0,0
+"Jones, Tyus",PG,0,"$4,300",min,pho,away, 118-91,NA,   ,0,0,0,0,0,0,0,0,0,0,0
+Daily blurbs,"
+
+RotoGuru Menu
+Daily blurbs
+
+
+Message Forum
+Forum Keepers 
+
+Sponsorship
+Troubleshooting
+
+
+
+
+Football Pickoff
+
+ Login
+ Standings
+
+
+
+
+
+
+ 
+Basketball
+
+
+
+
+
+DailyHoopsData
+Stat Summarizer
+Player Lookup
+NBA Schedule
+
+Full Season
+Next 4 weeks
+
+
+
+FanDuel Hoops
+Sortable Stats
+Daily FDP
+
+
+
+
+
+
+DraftKings Hoops
+
+Sortable Stats
+Daily DKP
+
+Yahoo DFS Hoops
+
+Sortable Stats
+Daily YHP
+
+Market Madness
+Contest Site
+Rules
+Historical Stats
+
+
+Recap of Entries
+Unit Returns
+Standings
+
+
+
+ 
+Baseball
+
+MLB Schedule
+
+
+
+Base Advances
+Player Lookup
+DailyBaseballData
+Pitcher vs. Batter
+Weather
+
+Daily Live Stats
+
+
+
+
+
+
+
+
+
+
+
+
+
+FanDuel Baseball
+Sortable Stats
+Daily FDP 
+
+
+
+
+
+
+
+DraftKings Baseball
+
+
+Sortable Stats
+Daily DKP 
+
+Yahoo DFS Baseball
+Sortable Stats
+Daily YHP 
+
+
+
+
+
+
+MFL Site
+Football
+
+
+NFL Schedule
+Field Goals
+Player Lookup
+
+
+
+
+
+
+FanDuel Football
+Sortable Stats
+Weekly FDP
+
+
+
+DraftKings Football
+
+Sortable Stats
+Weekly DKP
+
+
+Yahoo DFS Football
+Sortable Stats
+Weekly YHP
+
+
+
+
+
+
+
+
+
+General
+
+Home page
+Hall of Fame
+Gur-who?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+", , ,"
+
+","
+
+
+
+
+
+
+
+
+
+
+
+
+Fantasy Points for 22-Jan-2019FanDuel Salary Cap NBA Basketball      Select other gameFanDuelDraftKingsYahoo DFS   Oct
+Nov
+Dec
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 27
+ 28
+ 29
+ 30
+ 31
+ 2021
+ 2020
+ 2019
+ 2018
+ 2017
+ 2016
+ 2015
+ 2014
+ Past week:    21-Jan   |   20-Jan   |   19-Jan   |   18-Jan   |   17-Jan   |   16-Jan   |   15-Jan   |Starters are indicated by a ^ following the players  name.Active players not appearing in a game are listed as DNP.Inactive players are denoted as NA.Player salaries are only for the 'Full Roster' game style at FanDuel. 
+To sort players by game, click here
+For data in semi-colon delimited format, click here.Or try downloading this fuller set of season-long data.
+
+
+
+
+
+
+Jump to:     Guards   |   Forwards   |   Centers   |   Unlisted   | Guards FD PointsSalaryTeamOpp. ScoreMin   Stats
+PGLillard, Damian^62$9,300por@ okc 114-12340:24   34pt 5rb 8as 5st 5to 2trey 12-24fg 8-8ft
+PGWestbrook, Russell^60$12,500okcv por 123-11436:43   29pt 10rb 14as 1st 5to 1trey 9-20fg 10-12ft
+SGBogdanovic, Bogdan^47.1$5,900sac@ tor 105-12036:04   16pt 8rb 9as 3st 1to 1trey 6-15fg 3-4ft
+PGVanVleet, Fred^41.9$4,800torv sac 120-10532:11   19pt 7rb 7as 1st 1bl 2to 3trey 6-10fg 4-5ft
+SGMcCollum, C.J.^38.1$6,500por@ okc 114-12338:10   31pt 3rb 3as 1bl 4to 7trey 11-23fg 2-2ft
+SGDoncic, Luka^37.4$8,900dalv lac 106-9832:18   17pt 7rb 6as 1st 1bl 3to 5-15fg 7-10ft
+PGLowry, Kyle^36.3$8,300torv sac 120-10534:08   19pt 4rb 9as 1bl 4to 4trey 6-15fg 3-3ft
+PGBayless, Jerryd35.3$3,600min@ pho 118-9128:22   14pt 4rb 7as 2st 4trey 5-16fg
+SGOkogie, Josh^35$4,200min@ pho 118-9124:57   21pt 5rb 2as 2st 1to 4trey 7-11fg 3-3ft
+PGBeverley, Patrick^34.3$4,700lac@ dal 98-10635:16   16pt 9rb 3as 1st 3trey 6-14fg 1-3ft
+PGSmith Jr., Dennis^31.6$5,200dalv lac 106-9836:44   17pt 8rb 4as 1st 4to 1trey 6-17fg 4-4ft
+PGFerrell, Yogi^31.4$3,500sac@ tor 105-12038:30   10pt 7rb 6as 2st 2to 2trey 4-13fg
+SGFerguson, Terrance^28.9$4,000okcv por 123-11436:30   14pt 2rb 1as 4st 1to 2trey 6-8fg
+SGWiggins, Andrew^28.8$6,100min@ pho 118-9133:47   17pt 9rb 2as 2to 1trey 7-18fg 2-4ft
+SGHield, Buddy^28.1$6,000sac@ tor 105-12035:27   15pt 3rb 5as 1st 1bl 4to 2trey 5-14fg 3-3ft
+SGBooker, Devin^25.6$7,900phov min 91-11824:12   14pt 3rb 4as 1st 1bl 4to 6-11fg 2-2ft
+SGBradley, Avery^24.5$3,900lac@ dal 98-10638:30   15pt 5rb 3as 1to 3trey 5-11fg 2-2ft
+PGHarris, Devin23.1$3,500dalv lac 106-9817:18   13pt 3rb 3as 1st 1to 2trey 5-8fg 1-2ft
+SGWilliams, Louis20.2$6,700lac@ dal 98-10623:28   15pt 1rb 4as 2to 1trey 5-16fg 4-4ft
+SGSchroder, Dennis20.2$6,200okcv por 123-11422:45   13pt 1rb 2as 1st 1trey 5-13fg 2-4ft
+SGWright, Delon19.2$4,500torv sac 120-10524:22   9pt 6rb 2as 1st 3to 1trey 2-6fg 4-5ft
+PGRose, Derrick^16.7$6,600min@ pho 118-9123:14   6pt 1rb 5as 1st 1to 3-9fg
+SGGreen, Danny^15.9$5,000torv sac 120-10522:43   6pt 2rb 1as 1st 1bl 2trey 2-8fg
+PGMelton, De'Anthony^14.7$4,400phov min 91-11822:16   4pt 1rb 3as 2st 1to 2-6fg
+SGMcLemore, Ben14.4$3,700sac@ tor 105-12012:55   10pt 2rb 1bl 1to 2trey 3-4fg 2-3ft
+SGDaniels, Troy14.2$3,500phov min 91-11817:24   7pt 1rb 1st 1bl 1trey 3-7fg
+PGGilgeous-Alexander, Shai^13.7$3,900lac@ dal 98-10620:22   8pt 1rb 1as 1bl 4-14fg
+SGMatthews, Wes^11.7$4,300dalv lac 106-9832:52   9pt 1rb 1as 1trey 3-9fg 2-5ft
+PGRobinson, Jerome9.9$3,500lac@ dal 98-1069:33   3pt 2rb 1as 1st 1trey 1-2fg
+SGMason III, Frank7.5$3,500sac@ tor 105-1209:30   2pt 3as 1st 2to 1-3fg
+SGCrawford, Jamal7.2$3,500phov min 91-11821:35   0pt 1rb 4as 0-4fg
+SGMcCaw, Patrick7.1$3,500torv sac 120-1057:23   0pt 3rb 1as 1st 1to 0-2fg
+SGTerrell, Jared5.5$3,500min@ pho 118-915:36   5pt 1as 1to 1trey 2-3fg
+SGWallace, Tyrone5.2$3,500lac@ dal 98-1069:36   4pt 1rb 1-5fg 2-2ft
+SGWilliams, C.J.4.7$3,500min@ pho 118-915:36   3pt 1rb 1as 1to 1trey 1-1fg
+SGThornwell, Sindarius4.2$3,500lac@ dal 98-1067:23   3pt 1rb 1-1fg 1-4ft
+PGCurry, Seth3.2$3,500por@ okc 114-12312:29   2pt 1rb 1-2fg
+PGBrunson, Jalen0$3,700dalv lac 106-983:47   0pt
+SGRichardson, Malachi0$3,500torv sac 120-1051:29   0pt
+PGLoyd, Jordan0$3,500torv sac 120-1051:29   0pt 0-1fg
+PGOkobo, Elie0$3,600phov min 91-1183:48   0pt 0-4fg
+PGFelton, Raymond0$3,500okcv por 123-114DNP   
+SGStauskas, Nik0$3,500por@ okc 114-123DNP   
+PGBaldwin, Wade0$3,500por@ okc 114-123DNP   
+SGShumpert, Iman0$3,800sac@ tor 105-120DNP   
+SGDiallo, Hamidou0$3,500okcv por 123-114DNP   
+SGLuwawu, Timothe0$3,500okcv por 123-114DNP   
+PGFox, De'Aaron0$8,000sac@ tor 105-120DNP   
+SGAbrines, Alex0$3,600okcv por 123-114DNP   
+PGTeodosic, Milos0$3,500lac@ dal 98-106NA   
+PGMacon, Daryl0$3,500dalv lac 106-98NA   
+SGSimons, Anfernee0$3,500por@ okc 114-123NA   
+SGBurton, Deonte0$3,500okcv por 123-114NA   
+PGEvans, Jawun0$3,500phov min 91-118NA   
+SGRoberson, Andre0$3,500okcv por 123-114NA   
+SGTrent Jr., Gary0$3,500por@ okc 114-123NA   
+PGBarea, Jose0$3,500dalv lac 106-98NA   
+PGTeague, Jeff0$6,300min@ pho 118-91NA   
+PGJones, Tyus0$4,300min@ pho 118-91NA   
+Jump to:     Guards   |   Forwards   |   Centers   |   Unlisted   | Forwards FD PointsSalaryTeamOpp. ScoreMin   Stats
+SFGeorge, Paul^66.6$10,400okcv por 123-11437:55   36pt 8rb 4as 5st 1bl 3to 3trey 10-21fg 13-15ft
+PFJackson, Josh51.5$4,700phov min 91-11831:29   27pt 10rb 3as 3bl 1to 2trey 10-18fg 5-9ft
+PFBagley, Marvin^43.7$5,600sac@ tor 105-12037:48   22pt 11rb 1as 1st 2bl 2to 10-20fg 2-2ft
+PFHarris, Tobias^31.4$8,100lac@ dal 98-10634:23   9pt 7rb 4as 1st 2bl 1to 1trey 1-9fg 6-6ft
+PFSiakam, Pascal^28.3$6,900torv sac 120-10531:21   18pt 4rb 1as 1st 1bl 2to 1trey 8-14fg 1-1ft
+PFIbaka, Serge^27.5$6,700torv sac 120-10525:18   15pt 10rb 1as 1to 5-13fg 5-6ft
+PFBender, Dragan^27$3,800phov min 91-11830:00   13pt 10rb 2as 1to 1trey 5-10fg 2-5ft
+PFHarrell, Montrezl^26.1$7,800lac@ dal 98-10631:19   11pt 8rb 3as 1bl 2to 4-7fg 3-4ft
+PFGrant, Jerami^26$6,400okcv por 123-11433:10   11pt 5rb 1st 2bl 2trey 4-8fg 1-2ft
+SFOubre, Kelly25.6$6,100phov min 91-11826:20   13pt 3rb 1st 3bl 3to 2trey 5-10fg 1-2ft
+PFAminu, Al-Farouq^25.6$5,900por@ okc 114-12330:40   4pt 13rb 4as 1-7fg 2-4ft
+SFBarnes, Harrison^23.9$5,800dalv lac 106-9833:33   20pt 2rb 1as 3trey 7-14fg 3-4ft
+PFGiles, Harry23.8$3,700sac@ tor 105-12022:40   11pt 4rb 2as 2bl 1to 4-8fg 3-6ft
+SFMiles, C.J.21.9$3,700torv sac 120-10515:36   15pt 2rb 1as 1bl 4trey 5-7fg 1-2ft
+SFBridges, Mikal^19$4,000phov min 91-11828:51   7pt 4as 1st 1bl 1trey 3-11fg
+PFGibson, Taj^18.9$5,300min@ pho 118-9124:30   13pt 7rb 1as 4to 4-7fg 5-7ft
+PFSaric, Dario14.3$3,900min@ pho 118-9116:54   5pt 4rb 3as 1trey 2-9fg
+SFFinney-Smith, Dorian13.3$3,900dalv lac 106-9821:01   5pt 4rb 1as 1st 1to 1trey 1-1fg 2-2ft
+SFPowell, Norman12.7$3,900torv sac 120-10520:48   11pt 1rb 1as 1to 1trey 4-7fg 2-5ft
+PFMotley, Johnathan12.6$3,500lac@ dal 98-10615:14   7pt 3rb 1st 1to 2-5fg 3-4ft
+PFNowitzki, Dirk12.2$3,500dalv lac 106-9810:22   8pt 1rb 1bl 2trey 3-6fg
+PFCollins, Zach11.7$3,800por@ okc 114-12312:07   4pt 6rb 1as 1to 2-3fg
+PFBoucher, Chris11.6$3,500torv sac 120-10511:39   8pt 3rb 2-4fg 4-4ft
+PFTolliver, Anthony10.5$3,500min@ pho 118-9119:49   3pt 5rb 1as 1trey 1-4fg
+PFLeonard, Meyers9.7$3,600por@ okc 114-12316:23   9pt 1rb 1as 2to 1trey 3-5fg 2-2ft
+SFLayman, Jake9.1$4,100por@ okc 114-12317:56   4pt 3rb 1as 2-7fg
+SFDeng, Luol9$3,600min@ pho 118-9114:42   4pt 5rb 1to 2-6fg
+PFKleber, Maxi8.7$4,600dalv lac 106-9814:27   2pt 6rb 1as 2to 1-2fg
+PFScott, Mike8.2$3,500lac@ dal 98-1069:39   7pt 1rb 1trey 3-7fg
+SFHarkless, Maurice^8.1$4,500por@ okc 114-12317:55   0pt 3rb 1as 1st 0-4fg
+SFWarren, T.J.^7.2$6,200phov min 91-11816:05   4pt 1rb 2as 1to 2-2fg
+PFAcy, Quincy6.3$3,600phov min 91-11818:00   2pt 4rb 1as 2to 1-4fg
+PFPatterson, Patrick6$3,500okcv por 123-11414:50   6pt 2trey 2-2fg
+SFTurner, Evan5.9$4,900por@ okc 114-12317:26   4pt 2rb 1as 2to 2-3fg
+SFJackson, Justin5.5$3,700sac@ tor 105-12017:11   4pt 1as 2-6fg
+SFBates-Diop, Keita4.4$3,500min@ pho 118-915:36   2pt 2rb 1-2fg
+PFPowell, Dwight2$3,800dalv lac 106-982:41   2pt 1-1fg
+SFNader, Abdel0$3,500okcv por 123-11410:07   0pt
+PFBroekhoff, Ryan0$3,500dalv lac 106-98DNP   
+SFBjelica, Nemanja0$4,100sac@ tor 105-120DNP   
+PFSwanigan, Caleb0$3,600por@ okc 114-123DNP   
+PFAnderson, Ryan0$3,500phov min 91-118DNP   
+PFAntetokounmpo, Kostas0$3,500dalv lac 106-98NA   
+PFMbah a Moute, Luc0$3,600lac@ dal 98-106NA   
+SFAnunoby, OG0$3,800torv sac 120-105NA   
+PFRandolph, Zach0$3,700sac@ tor 105-120NA   
+PFSpalding, Ray0$3,500dalv lac 106-98NA   
+PFGabriel, Wenyen0$3,500sac@ tor 105-120NA   
+SFKing, George0$3,500phov min 91-118NA   
+PFHolmes, Richaun0$4,600phov min 91-118NA   
+SFGrantham, Donte0$3,500okcv por 123-114NA   
+SFWilliams, Troy0$3,500sac@ tor 105-120NA   
+SFGallinari, Danilo0$7,200lac@ dal 98-106NA   
+SFLeonard, Kawhi0$10,300torv sac 120-105NA   
+PFLabissiere, Skal0$3,500sac@ tor 105-120NA   
+SFCovington, Robert0$6,600min@ pho 118-91NA   
+Jump to:     Guards   |   Forwards   |   Centers   |   Unlisted   | Centers FD PointsSalaryTeamOpp. ScoreMin   Stats
+CTowns, Karl-Anthony^64.1$10,600min@ pho 118-9131:30   25pt 18rb 7as 2st 1bl 2to 2trey 10-15fg 3-5ft
+CJordan, DeAndre^53.2$7,000dalv lac 106-9834:57   13pt 16rb 4as 1st 4bl 6-8fg 1-2ft
+CNurkic, Jusuf^45.5$9,200por@ okc 114-12336:30   22pt 15rb 1as 1st 2bl 5to 9-17fg 4-6ft
+CAdams, Steven^36.1$8,200okcv por 123-11436:25   14pt 8rb 3as 2st 1bl 1to 7-12fg
+CCauley-Stein, Willie^20.2$7,900sac@ tor 105-12024:37   10pt 6rb 2as 4-5fg 2-2ft
+CNoel, Nerlens12.6$3,500okcv por 123-11411:35   0pt 3rb 2as 2st 0-1fg
+CMonroe, Greg10.3$3,700torv sac 120-10511:33   0pt 4rb 1as 2st 2to 0-4fg 0-4ft
+CKoufos, Kosta9.4$3,600sac@ tor 105-1205:18   5pt 2rb 1bl 1to 2-3fg 1-2ft
+CDieng, Gorgui2.6$3,500min@ pho 118-915:27   0pt 3rb 1to 0-2fg
+CGortat, Marcin2.4$3,500lac@ dal 98-1065:17   0pt 2rb
+CMarjanovic, Boban0$3,500lac@ dal 98-106DNP   
+CMejri, Salah0$3,500dalv lac 106-98DNP   
+CAyton, Deandre0$7,400phov min 91-118NA   
+CDelgado, Angel0$3,500lac@ dal 98-106NA   
+CValanciunas, Jonas0$5,000torv sac 120-105NA   
+
+
+
+
+RotoGuru is produced by Dave Hall (a.k.a. the Guru), an avid fantasy sports player. He is not employed by any of the fantasy sports games discussed within this site, and all opinions expressed are solely his own. Questions or comments are welcome, and should be emailed to Guru<davehall@rotoguru2.com>.
+MLB amd NBA statistical data provided under license with and
+
+ © Copyright 1998-2018 by Uncommon Cents, LLC.  All rights reserved.
+
+",messed up,"
+
+
+
+",Fantasy Points for 22-Jan-2019FanDuel Salary Cap NBA Basketball     , ,0,0,0,0,0,0,0,0,0,0,0
+Daily blurbs,"
+
+RotoGuru Menu
+Daily blurbs
+
+
+Message Forum
+Forum Keepers 
+
+Sponsorship
+Troubleshooting
+
+
+
+
+Football Pickoff
+
+ Login
+ Standings
+
+
+
+
+
+
+ 
+Basketball
+
+
+
+
+
+DailyHoopsData
+Stat Summarizer
+Player Lookup
+NBA Schedule
+
+Full Season
+Next 4 weeks
+
+
+
+FanDuel Hoops
+Sortable Stats
+Daily FDP
+
+
+
+
+
+
+DraftKings Hoops
+
+Sortable Stats
+Daily DKP
+
+Yahoo DFS Hoops
+
+Sortable Stats
+Daily YHP
+
+Market Madness
+Contest Site
+Rules
+Historical Stats
+
+
+Recap of Entries
+Unit Returns
+Standings
+
+
+
+ 
+Baseball
+
+MLB Schedule
+
+
+
+Base Advances
+Player Lookup
+DailyBaseballData
+Pitcher vs. Batter
+Weather
+
+Daily Live Stats
+
+
+
+
+
+
+
+
+
+
+
+
+
+FanDuel Baseball
+Sortable Stats
+Daily FDP 
+
+
+
+
+
+
+
+DraftKings Baseball
+
+
+Sortable Stats
+Daily DKP 
+
+Yahoo DFS Baseball
+Sortable Stats
+Daily YHP 
+
+
+
+
+
+
+MFL Site
+Football
+
+
+NFL Schedule
+Field Goals
+Player Lookup
+
+
+
+
+
+
+FanDuel Football
+Sortable Stats
+Weekly FDP
+
+
+
+DraftKings Football
+
+Sortable Stats
+Weekly DKP
+
+
+Yahoo DFS Football
+Sortable Stats
+Weekly YHP
+
+
+
+
+
+
+
+
+
+General
+
+Home page
+Hall of Fame
+Gur-who?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+", , ,"
+
+","
+
+
+
+
+
+
+
+
+
+
+
+
+Fantasy Points for 22-Jan-2019FanDuel Salary Cap NBA Basketball      Select other gameFanDuelDraftKingsYahoo DFS   Oct
+Nov
+Dec
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 27
+ 28
+ 29
+ 30
+ 31
+ 2021
+ 2020
+ 2019
+ 2018
+ 2017
+ 2016
+ 2015
+ 2014
+ Past week:    21-Jan   |   20-Jan   |   19-Jan   |   18-Jan   |   17-Jan   |   16-Jan   |   15-Jan   |Starters are indicated by a ^ following the players  name.Active players not appearing in a game are listed as DNP.Inactive players are denoted as NA.Player salaries are only for the 'Full Roster' game style at FanDuel. 
+To sort players by game, click here
+For data in semi-colon delimited format, click here.Or try downloading this fuller set of season-long data.
+
+
+
+
+
+
+Jump to:     Guards   |   Forwards   |   Centers   |   Unlisted   | Guards FD PointsSalaryTeamOpp. ScoreMin   Stats
+PGLillard, Damian^62$9,300por@ okc 114-12340:24   34pt 5rb 8as 5st 5to 2trey 12-24fg 8-8ft
+PGWestbrook, Russell^60$12,500okcv por 123-11436:43   29pt 10rb 14as 1st 5to 1trey 9-20fg 10-12ft
+SGBogdanovic, Bogdan^47.1$5,900sac@ tor 105-12036:04   16pt 8rb 9as 3st 1to 1trey 6-15fg 3-4ft
+PGVanVleet, Fred^41.9$4,800torv sac 120-10532:11   19pt 7rb 7as 1st 1bl 2to 3trey 6-10fg 4-5ft
+SGMcCollum, C.J.^38.1$6,500por@ okc 114-12338:10   31pt 3rb 3as 1bl 4to 7trey 11-23fg 2-2ft
+SGDoncic, Luka^37.4$8,900dalv lac 106-9832:18   17pt 7rb 6as 1st 1bl 3to 5-15fg 7-10ft
+PGLowry, Kyle^36.3$8,300torv sac 120-10534:08   19pt 4rb 9as 1bl 4to 4trey 6-15fg 3-3ft
+PGBayless, Jerryd35.3$3,600min@ pho 118-9128:22   14pt 4rb 7as 2st 4trey 5-16fg
+SGOkogie, Josh^35$4,200min@ pho 118-9124:57   21pt 5rb 2as 2st 1to 4trey 7-11fg 3-3ft
+PGBeverley, Patrick^34.3$4,700lac@ dal 98-10635:16   16pt 9rb 3as 1st 3trey 6-14fg 1-3ft
+PGSmith Jr., Dennis^31.6$5,200dalv lac 106-9836:44   17pt 8rb 4as 1st 4to 1trey 6-17fg 4-4ft
+PGFerrell, Yogi^31.4$3,500sac@ tor 105-12038:30   10pt 7rb 6as 2st 2to 2trey 4-13fg
+SGFerguson, Terrance^28.9$4,000okcv por 123-11436:30   14pt 2rb 1as 4st 1to 2trey 6-8fg
+SGWiggins, Andrew^28.8$6,100min@ pho 118-9133:47   17pt 9rb 2as 2to 1trey 7-18fg 2-4ft
+SGHield, Buddy^28.1$6,000sac@ tor 105-12035:27   15pt 3rb 5as 1st 1bl 4to 2trey 5-14fg 3-3ft
+SGBooker, Devin^25.6$7,900phov min 91-11824:12   14pt 3rb 4as 1st 1bl 4to 6-11fg 2-2ft
+SGBradley, Avery^24.5$3,900lac@ dal 98-10638:30   15pt 5rb 3as 1to 3trey 5-11fg 2-2ft
+PGHarris, Devin23.1$3,500dalv lac 106-9817:18   13pt 3rb 3as 1st 1to 2trey 5-8fg 1-2ft
+SGWilliams, Louis20.2$6,700lac@ dal 98-10623:28   15pt 1rb 4as 2to 1trey 5-16fg 4-4ft
+SGSchroder, Dennis20.2$6,200okcv por 123-11422:45   13pt 1rb 2as 1st 1trey 5-13fg 2-4ft
+SGWright, Delon19.2$4,500torv sac 120-10524:22   9pt 6rb 2as 1st 3to 1trey 2-6fg 4-5ft
+PGRose, Derrick^16.7$6,600min@ pho 118-9123:14   6pt 1rb 5as 1st 1to 3-9fg
+SGGreen, Danny^15.9$5,000torv sac 120-10522:43   6pt 2rb 1as 1st 1bl 2trey 2-8fg
+PGMelton, De'Anthony^14.7$4,400phov min 91-11822:16   4pt 1rb 3as 2st 1to 2-6fg
+SGMcLemore, Ben14.4$3,700sac@ tor 105-12012:55   10pt 2rb 1bl 1to 2trey 3-4fg 2-3ft
+SGDaniels, Troy14.2$3,500phov min 91-11817:24   7pt 1rb 1st 1bl 1trey 3-7fg
+PGGilgeous-Alexander, Shai^13.7$3,900lac@ dal 98-10620:22   8pt 1rb 1as 1bl 4-14fg
+SGMatthews, Wes^11.7$4,300dalv lac 106-9832:52   9pt 1rb 1as 1trey 3-9fg 2-5ft
+PGRobinson, Jerome9.9$3,500lac@ dal 98-1069:33   3pt 2rb 1as 1st 1trey 1-2fg
+SGMason III, Frank7.5$3,500sac@ tor 105-1209:30   2pt 3as 1st 2to 1-3fg
+SGCrawford, Jamal7.2$3,500phov min 91-11821:35   0pt 1rb 4as 0-4fg
+SGMcCaw, Patrick7.1$3,500torv sac 120-1057:23   0pt 3rb 1as 1st 1to 0-2fg
+SGTerrell, Jared5.5$3,500min@ pho 118-915:36   5pt 1as 1to 1trey 2-3fg
+SGWallace, Tyrone5.2$3,500lac@ dal 98-1069:36   4pt 1rb 1-5fg 2-2ft
+SGWilliams, C.J.4.7$3,500min@ pho 118-915:36   3pt 1rb 1as 1to 1trey 1-1fg
+SGThornwell, Sindarius4.2$3,500lac@ dal 98-1067:23   3pt 1rb 1-1fg 1-4ft
+PGCurry, Seth3.2$3,500por@ okc 114-12312:29   2pt 1rb 1-2fg
+PGBrunson, Jalen0$3,700dalv lac 106-983:47   0pt
+SGRichardson, Malachi0$3,500torv sac 120-1051:29   0pt
+PGLoyd, Jordan0$3,500torv sac 120-1051:29   0pt 0-1fg
+PGOkobo, Elie0$3,600phov min 91-1183:48   0pt 0-4fg
+PGFelton, Raymond0$3,500okcv por 123-114DNP   
+SGStauskas, Nik0$3,500por@ okc 114-123DNP   
+PGBaldwin, Wade0$3,500por@ okc 114-123DNP   
+SGShumpert, Iman0$3,800sac@ tor 105-120DNP   
+SGDiallo, Hamidou0$3,500okcv por 123-114DNP   
+SGLuwawu, Timothe0$3,500okcv por 123-114DNP   
+PGFox, De'Aaron0$8,000sac@ tor 105-120DNP   
+SGAbrines, Alex0$3,600okcv por 123-114DNP   
+PGTeodosic, Milos0$3,500lac@ dal 98-106NA   
+PGMacon, Daryl0$3,500dalv lac 106-98NA   
+SGSimons, Anfernee0$3,500por@ okc 114-123NA   
+SGBurton, Deonte0$3,500okcv por 123-114NA   
+PGEvans, Jawun0$3,500phov min 91-118NA   
+SGRoberson, Andre0$3,500okcv por 123-114NA   
+SGTrent Jr., Gary0$3,500por@ okc 114-123NA   
+PGBarea, Jose0$3,500dalv lac 106-98NA   
+PGTeague, Jeff0$6,300min@ pho 118-91NA   
+PGJones, Tyus0$4,300min@ pho 118-91NA   
+Jump to:     Guards   |   Forwards   |   Centers   |   Unlisted   | Forwards FD PointsSalaryTeamOpp. ScoreMin   Stats
+SFGeorge, Paul^66.6$10,400okcv por 123-11437:55   36pt 8rb 4as 5st 1bl 3to 3trey 10-21fg 13-15ft
+PFJackson, Josh51.5$4,700phov min 91-11831:29   27pt 10rb 3as 3bl 1to 2trey 10-18fg 5-9ft
+PFBagley, Marvin^43.7$5,600sac@ tor 105-12037:48   22pt 11rb 1as 1st 2bl 2to 10-20fg 2-2ft
+PFHarris, Tobias^31.4$8,100lac@ dal 98-10634:23   9pt 7rb 4as 1st 2bl 1to 1trey 1-9fg 6-6ft
+PFSiakam, Pascal^28.3$6,900torv sac 120-10531:21   18pt 4rb 1as 1st 1bl 2to 1trey 8-14fg 1-1ft
+PFIbaka, Serge^27.5$6,700torv sac 120-10525:18   15pt 10rb 1as 1to 5-13fg 5-6ft
+PFBender, Dragan^27$3,800phov min 91-11830:00   13pt 10rb 2as 1to 1trey 5-10fg 2-5ft
+PFHarrell, Montrezl^26.1$7,800lac@ dal 98-10631:19   11pt 8rb 3as 1bl 2to 4-7fg 3-4ft
+PFGrant, Jerami^26$6,400okcv por 123-11433:10   11pt 5rb 1st 2bl 2trey 4-8fg 1-2ft
+SFOubre, Kelly25.6$6,100phov min 91-11826:20   13pt 3rb 1st 3bl 3to 2trey 5-10fg 1-2ft
+PFAminu, Al-Farouq^25.6$5,900por@ okc 114-12330:40   4pt 13rb 4as 1-7fg 2-4ft
+SFBarnes, Harrison^23.9$5,800dalv lac 106-9833:33   20pt 2rb 1as 3trey 7-14fg 3-4ft
+PFGiles, Harry23.8$3,700sac@ tor 105-12022:40   11pt 4rb 2as 2bl 1to 4-8fg 3-6ft
+SFMiles, C.J.21.9$3,700torv sac 120-10515:36   15pt 2rb 1as 1bl 4trey 5-7fg 1-2ft
+SFBridges, Mikal^19$4,000phov min 91-11828:51   7pt 4as 1st 1bl 1trey 3-11fg
+PFGibson, Taj^18.9$5,300min@ pho 118-9124:30   13pt 7rb 1as 4to 4-7fg 5-7ft
+PFSaric, Dario14.3$3,900min@ pho 118-9116:54   5pt 4rb 3as 1trey 2-9fg
+SFFinney-Smith, Dorian13.3$3,900dalv lac 106-9821:01   5pt 4rb 1as 1st 1to 1trey 1-1fg 2-2ft
+SFPowell, Norman12.7$3,900torv sac 120-10520:48   11pt 1rb 1as 1to 1trey 4-7fg 2-5ft
+PFMotley, Johnathan12.6$3,500lac@ dal 98-10615:14   7pt 3rb 1st 1to 2-5fg 3-4ft
+PFNowitzki, Dirk12.2$3,500dalv lac 106-9810:22   8pt 1rb 1bl 2trey 3-6fg
+PFCollins, Zach11.7$3,800por@ okc 114-12312:07   4pt 6rb 1as 1to 2-3fg
+PFBoucher, Chris11.6$3,500torv sac 120-10511:39   8pt 3rb 2-4fg 4-4ft
+PFTolliver, Anthony10.5$3,500min@ pho 118-9119:49   3pt 5rb 1as 1trey 1-4fg
+PFLeonard, Meyers9.7$3,600por@ okc 114-12316:23   9pt 1rb 1as 2to 1trey 3-5fg 2-2ft
+SFLayman, Jake9.1$4,100por@ okc 114-12317:56   4pt 3rb 1as 2-7fg
+SFDeng, Luol9$3,600min@ pho 118-9114:42   4pt 5rb 1to 2-6fg
+PFKleber, Maxi8.7$4,600dalv lac 106-9814:27   2pt 6rb 1as 2to 1-2fg
+PFScott, Mike8.2$3,500lac@ dal 98-1069:39   7pt 1rb 1trey 3-7fg
+SFHarkless, Maurice^8.1$4,500por@ okc 114-12317:55   0pt 3rb 1as 1st 0-4fg
+SFWarren, T.J.^7.2$6,200phov min 91-11816:05   4pt 1rb 2as 1to 2-2fg
+PFAcy, Quincy6.3$3,600phov min 91-11818:00   2pt 4rb 1as 2to 1-4fg
+PFPatterson, Patrick6$3,500okcv por 123-11414:50   6pt 2trey 2-2fg
+SFTurner, Evan5.9$4,900por@ okc 114-12317:26   4pt 2rb 1as 2to 2-3fg
+SFJackson, Justin5.5$3,700sac@ tor 105-12017:11   4pt 1as 2-6fg
+SFBates-Diop, Keita4.4$3,500min@ pho 118-915:36   2pt 2rb 1-2fg
+PFPowell, Dwight2$3,800dalv lac 106-982:41   2pt 1-1fg
+SFNader, Abdel0$3,500okcv por 123-11410:07   0pt
+PFBroekhoff, Ryan0$3,500dalv lac 106-98DNP   
+SFBjelica, Nemanja0$4,100sac@ tor 105-120DNP   
+PFSwanigan, Caleb0$3,600por@ okc 114-123DNP   
+PFAnderson, Ryan0$3,500phov min 91-118DNP   
+PFAntetokounmpo, Kostas0$3,500dalv lac 106-98NA   
+PFMbah a Moute, Luc0$3,600lac@ dal 98-106NA   
+SFAnunoby, OG0$3,800torv sac 120-105NA   
+PFRandolph, Zach0$3,700sac@ tor 105-120NA   
+PFSpalding, Ray0$3,500dalv lac 106-98NA   
+PFGabriel, Wenyen0$3,500sac@ tor 105-120NA   
+SFKing, George0$3,500phov min 91-118NA   
+PFHolmes, Richaun0$4,600phov min 91-118NA   
+SFGrantham, Donte0$3,500okcv por 123-114NA   
+SFWilliams, Troy0$3,500sac@ tor 105-120NA   
+SFGallinari, Danilo0$7,200lac@ dal 98-106NA   
+SFLeonard, Kawhi0$10,300torv sac 120-105NA   
+PFLabissiere, Skal0$3,500sac@ tor 105-120NA   
+SFCovington, Robert0$6,600min@ pho 118-91NA   
+Jump to:     Guards   |   Forwards   |   Centers   |   Unlisted   | Centers FD PointsSalaryTeamOpp. ScoreMin   Stats
+CTowns, Karl-Anthony^64.1$10,600min@ pho 118-9131:30   25pt 18rb 7as 2st 1bl 2to 2trey 10-15fg 3-5ft
+CJordan, DeAndre^53.2$7,000dalv lac 106-9834:57   13pt 16rb 4as 1st 4bl 6-8fg 1-2ft
+CNurkic, Jusuf^45.5$9,200por@ okc 114-12336:30   22pt 15rb 1as 1st 2bl 5to 9-17fg 4-6ft
+CAdams, Steven^36.1$8,200okcv por 123-11436:25   14pt 8rb 3as 2st 1bl 1to 7-12fg
+CCauley-Stein, Willie^20.2$7,900sac@ tor 105-12024:37   10pt 6rb 2as 4-5fg 2-2ft
+CNoel, Nerlens12.6$3,500okcv por 123-11411:35   0pt 3rb 2as 2st 0-1fg
+CMonroe, Greg10.3$3,700torv sac 120-10511:33   0pt 4rb 1as 2st 2to 0-4fg 0-4ft
+CKoufos, Kosta9.4$3,600sac@ tor 105-1205:18   5pt 2rb 1bl 1to 2-3fg 1-2ft
+CDieng, Gorgui2.6$3,500min@ pho 118-915:27   0pt 3rb 1to 0-2fg
+CGortat, Marcin2.4$3,500lac@ dal 98-1065:17   0pt 2rb
+CMarjanovic, Boban0$3,500lac@ dal 98-106DNP   
+CMejri, Salah0$3,500dalv lac 106-98DNP   
+CAyton, Deandre0$7,400phov min 91-118NA   
+CDelgado, Angel0$3,500lac@ dal 98-106NA   
+CValanciunas, Jonas0$5,000torv sac 120-105NA   
+
+
+
+
+RotoGuru is produced by Dave Hall (a.k.a. the Guru), an avid fantasy sports player. He is not employed by any of the fantasy sports games discussed within this site, and all opinions expressed are solely his own. Questions or comments are welcome, and should be emailed to Guru<davehall@rotoguru2.com>.
+MLB amd NBA statistical data provided under license with and
+
+ © Copyright 1998-2018 by Uncommon Cents, LLC.  All rights reserved.
+
+",messed up,"
+
+
+
+",Fantasy Points for 22-Jan-2019FanDuel Salary Cap NBA Basketball     , ,0,0,0,0,0,0,0,0,0,0,0
