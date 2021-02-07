@@ -48,11 +48,11 @@ def main():
                     if getTheStats(players, i, rows, playerTracker) == -1:
                         break
                 ######### Gets the stats for the Forwards #########
-                for i in range(playerTracker,len(players)): # for the forwards
+                for i in range(playerTracker,len(players)):
                     if getTheStats(players, i, rows, playerTracker) == -1:
                         break
                 ######### Gets the stats for the Centers ##########
-                for i in range(playerTracker,len(players)): # for the centers
+                for i in range(playerTracker,len(players)):
                     if getTheStats(players, i, rows, playerTracker) == -1:
                         break
                 ############# Exporting stats to CSV ##############
