@@ -2,6 +2,7 @@ from urllib.request import urlopen as uReq
 from bs4 import BeautifulSoup
 import csv 
 import os
+import re
 from tqdm import tqdm
 
 # the is a comment to see if a can push from new computer!!!!
@@ -29,7 +30,7 @@ def main():
 
             players = soup.find_all("tr") # first player is always 10
             if (len(players) >= 10) : # checks if there were games that day
-                fields = ["Name", "Position", "FDPoints", "Salary", "Team", "Opp.", "Home/Away", "Score", "Min", "stats", "Pts", 'Rbs', 'Ast', 'Stl', 'Blk', 'To', '3PM', 'FGM', 'FGA', 'FTM', 'FTA']
+                fields = ["Name", "Position", "FDPoints", "Salary", "Team", "Opp.", "Home/Away", "Score", "Min", "Pts", 'Rbs', 'Ast', 'Stl', 'Blk', 'To', '3PM', 'FGM', 'FGA', 'FTM', 'FTA']
                 rows = []
                 playerTracker = 0
                 for i in range(10,len(players)): # for the gaurds
@@ -60,15 +61,14 @@ def getTheStats(players, i, rows, playerTracker):
         helper = players[i].find_all("td")
         stats = splitStatsIntoCatagories(str(helper[8].text))
         rows.append([ players[i].find("a").text,                            # Name
-                      helper[0].text,                                       # Position
+                      getPosition(helper[0].text),                          # Position
                       helper[2].text,                                       # FDPoints
-                      helper[3].text,                                       # Salary
+                      re.sub('[$,]', '', helper[3].text),                   # Salary
                       helper[4].text,                                       # Team
                       str(helper[5].text)[2:len(str(helper[5].text))],      # Opponent    
                       homeVsAway(helper[5].text),                           # Home or Away
                       helper[6].text,                                       # Score of Game
-                      helper[7].text,                                       # Minutes Played    
-                      helper[8].text,                                       # Statistics
+                      helper[7].text,                                       # Minutes Played
                       stats[0],                                             # Points
                       stats[1],                                             # Rebounds
                       stats[2],                                             # Assists
@@ -135,6 +135,16 @@ def getPercentages(allStats, finalStats, num, stat):
         finalStats.append(0)
         finalStats.append(0)
         return 0
+
+def getPosition(position):
+    switcher = {
+        'PG': 1,
+        'SG': 2,
+        'SF': 3,
+        'PF': 4,
+        'C': 5,
+    }
+    return switcher.get(position, -1)
 ##########################################################################################################################################################
 
 if __name__ == "__main__":
