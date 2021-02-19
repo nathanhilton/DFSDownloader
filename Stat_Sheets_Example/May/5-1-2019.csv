@@ -1,0 +1,31 @@
+Name,Position,FDPoints,Salary,Team,Opp.,Home/Away,Score,Min,stats,Pts,Rbs,Ast,Stl,Blk,To,3PM,FGM,FGA,FTM,FTA
+"McCollum, C.J.",SG,33.2,"$7,700",por,den,away, 97-90,41:12,   20pt 6rb 6as 3to 3trey 8-20fg 1-2ft,20,6,6,0,0,3,3,8,20,1,2
+"Lillard, Damian",PG,30.8,"$10,200",por,den,away, 97-90,38:36,   14pt 4rb 4as 2st 1bl 3to 1trey 5-17fg 3-4ft,14,4,4,2,1,3,1,5,17,3,4
+"Murray, Jamal",PG,26.9,"$7,800",den,por,home, 90-97,35:06,   15pt 7rb 1as 1st 1to 2trey 6-18fg 1-1ft,15,7,1,1,0,1,2,6,18,1,1
+"Beasley, Malik",SG,22.6,"$3,700",den,por,home, 90-97,27:10,   13pt 3rb 2as 1st 2trey 4-11fg 3-8ft,13,3,2,1,0,0,2,4,11,3,8
+"Harris, Gary",SG,15.6,"$5,100",den,por,home, 90-97,40:28,   12pt 3rb 2as 3to 4-12fg 4-4ft,12,3,2,0,0,3,0,4,12,4,4
+"Craig, Torrey",SG,14.8,"$4,500",den,por,home, 90-97,19:45,   7pt 4rb 1st 1trey 2-5fg 2-4ft,7,4,0,1,0,0,1,2,5,2,4
+"Morris, Monte",SG,12,"$3,800",den,por,home, 90-97,19:01,   3pt 6as 1-8fg 1-2ft,3,0,6,0,0,0,0,1,8,1,2
+"Curry, Seth",PG,5.7,"$3,500",por,den,away, 97-90,16:39,   3pt 1rb 1as 1trey 1-4fg,3,1,1,0,0,0,1,1,4,0,0
+"Thomas, Isaiah",PG,0,"$3,500",den,por,home, 90-97,DNP,   ,0,0,0,0,0,0,0,0,0,0,0
+"Simons, Anfernee",SG,0,"$3,500",por,den,away, 97-90,DNP,   ,0,0,0,0,0,0,0,0,0,0,0
+"Trent Jr., Gary",SG,0,"$3,500",por,den,away, 97-90,NA,   ,0,0,0,0,0,0,0,0,0,0,0
+"Millsap, Paul",PF,37.2,"$4,900",den,por,home, 90-97,31:39,   14pt 11rb 2st 2bl 2to 1trey 6-14fg 1-1ft,14,11,0,2,2,2,1,6,14,1,1
+"Hood, Rodney",SF,27.6,"$3,500",por,den,away, 97-90,27:13,   15pt 3rb 3bl 2trey 5-11fg 3-4ft,15,3,0,0,3,0,2,5,11,3,4
+"Aminu, Al-Farouq",PF,24.5,"$4,900",por,den,away, 97-90,30:52,   11pt 10rb 1as 1trey 3-9fg 4-5ft,11,10,1,0,0,0,1,3,9,4,5
+"Barton, Will",SF,20.7,"$4,100",den,por,home, 90-97,17:28,   4pt 11rb 1as 1bl 1to 1-6fg 2-2ft,4,11,1,0,1,1,0,1,6,2,2
+"Collins, Zach",PF,17.7,"$3,600",por,den,away, 97-90,17:00,   10pt 6rb 1as 1to 5-6fg,10,6,1,0,0,1,0,5,6,0,0
+"Harkless, Maurice",SF,14.3,"$5,100",por,den,away, 97-90,12:51,   5pt 4rb 1as 1st 1trey 2-3fg,5,4,1,1,0,0,1,2,3,0,0
+"Turner, Evan",SF,12.3,"$3,500",por,den,away, 97-90,18:01,   4pt 4rb 3as 1to 2-4fg,4,4,3,0,0,1,0,2,4,0,0
+"Layman, Jake",SF,0,"$3,500",por,den,away, 97-90,5:55,   0pt 0-1fg,0,0,0,0,0,0,0,0,1,0,0
+"Lyles, Trey",PF,0,"$3,500",den,por,home, 90-97,DNP,   ,0,0,0,0,0,0,0,0,0,0,0
+"Hernangomez, Juan",SF,0,"$3,500",den,por,home, 90-97,DNP,   ,0,0,0,0,0,0,0,0,0,0,0
+"Labissiere, Skal",PF,0,"$3,500",por,den,away, 97-90,DNP,   ,0,0,0,0,0,0,0,0,0,0,0
+"Leonard, Meyers",PF,0,"$3,500",por,den,away, 97-90,DNP,   ,0,0,0,0,0,0,0,0,0,0,0
+"Vanderbilt, Jarred",SF,0,"$3,500",den,por,home, 90-97,DNP,   ,0,0,0,0,0,0,0,0,0,0,0
+"Lydon, Tyler",SF,0,"$3,500",den,por,home, 90-97,NA,   ,0,0,0,0,0,0,0,0,0,0,0
+"Porter, Michael",PF,0,"$3,500",den,por,home, 90-97,NA,   ,0,0,0,0,0,0,0,0,0,0,0
+"Jokic, Nikola",C,44.3,"$11,800",den,por,home, 90-97,37:11,   16pt 14rb 7as 1st 2to 7-17fg 2-4ft,16,14,7,1,0,2,0,7,17,2,4
+"Kanter, Enes",C,37.3,"$7,000",por,den,away, 97-90,31:41,   15pt 9rb 1as 2st 2bl 2to 5-10fg 5-5ft,15,9,1,2,2,2,0,5,10,5,5
+"Plumlee, Mason",C,19.5,"$4,100",den,por,home, 90-97,12:12,   6pt 5rb 1as 2bl 3-7fg,6,5,1,0,2,0,0,3,7,0,0
+"Nurkic, Jusuf",C,0,"$3,500",por,den,away, 97-90,NA,   ,0,0,0,0,0,0,0,0,0,0,0
