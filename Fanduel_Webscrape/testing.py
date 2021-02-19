@@ -33,13 +33,16 @@ def main():
                 rows = []
                 playerTracker = 0
                 for i in range(10,len(players)): # for the gaurds
-                    if getTheStats(players, i, rows, playerTracker) == -1:
+                    playerTracker = getTheStats(players, i, rows, playerTracker)
+                    if playerTracker != -1:
                         break
                 for i in range(playerTracker,len(players)): # for the forwards
-                    if getTheStats(players, i, rows, playerTracker) == -1:
+                    playerTracker = getTheStats(players, i, rows, playerTracker)
+                    if playerTracker != -1:
                         break
                 for i in range(playerTracker,len(players)): # for the centers
-                    if getTheStats(players, i, rows, playerTracker) == -1:
+                    playerTracker = getTheStats(players, i, rows, playerTracker)
+                    if playerTracker != -1:
                         break
 
                 filename = "Stat_Sheets/" + folder + "/" + str(z) + "-" + str(w) + "-2019.csv"
@@ -77,9 +80,9 @@ def getTheStats(players, i, rows, playerTracker):
                       stats[8],                                             # Field Goals Attempted
                       stats[9],                                             # Free Throws Made
                       stats[10] ])                                          # Free Throws Attempted
-    except:
-        playerTracker = i + 2
         return -1
+    except:
+        return i + 2
 
 def homeVsAway(opp):
     if opp[0] == '@':

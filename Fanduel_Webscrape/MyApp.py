@@ -38,24 +38,25 @@ def main():
             page_html = uClient.read()
             uClient.close()
             soup = BeautifulSoup(page_html, "html.parser")
+
             players = soup.find_all("tr") # first player is always 10
             if (len(players) >= 10) : # checks if there were games that day
                 fields = ["Name", "Position", "FDPoints", "Salary", "Team", "Opp.", "Home/Away", "Score", "Min", "stats", "Pts", 'Rbs', 'Ast', 'Stl', 'Blk', 'To', '3PM', 'FGM', 'FGA', 'FTM', 'FTA']
                 rows = []
                 playerTracker = 0
-                ########## Gets the stats for the Guards ##########
-                for i in range(10,len(players)): 
-                    if getTheStats(players, i, rows, playerTracker) == -1:
+                for i in range(10,len(players)): # for the gaurds
+                    playerTracker = getTheStats(players, i, rows, playerTracker)
+                    if playerTracker != -1:
                         break
-                ######### Gets the stats for the Forwards #########
-                for i in range(playerTracker,len(players)):
-                    if getTheStats(players, i, rows, playerTracker) == -1:
+                for i in range(playerTracker,len(players)): # for the forwards
+                    playerTracker = getTheStats(players, i, rows, playerTracker)
+                    if playerTracker != -1:
                         break
-                ######### Gets the stats for the Centers ##########
-                for i in range(playerTracker,len(players)):
-                    if getTheStats(players, i, rows, playerTracker) == -1:
+                for i in range(playerTracker,len(players)): # for the centers
+                    playerTracker = getTheStats(players, i, rows, playerTracker)
+                    if playerTracker != -1:
                         break
-                ############# Exporting stats to CSV ##############
+
                 filename = "Stat_Sheets/" + folder + "/" + str(z) + "-" + str(w) + "-2019.csv"
                 with open(filename, "w", newline="") as csvfile: # writing to csv file  
                     csvwriter = csv.writer(csvfile)  
@@ -91,9 +92,9 @@ def getTheStats(players, i, rows, playerTracker):
                       stats[8],                                             # Field Goals Attempted
                       stats[9],                                             # Free Throws Made
                       stats[10] ])                                          # Free Throws Attempted
-    except:
-        playerTracker = i + 2
         return -1
+    except:
+        return i + 2
 
 def homeVsAway(opp):
     if opp[0] == '@':
