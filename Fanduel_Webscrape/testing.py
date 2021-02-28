@@ -35,12 +35,17 @@ def main():
         year = str(currentDate.year)
         month = str(currentDate.month)
         day = str(currentDate.day)
+        monthString = str(datetime.strptime("1", "%m").strftime("%B"))
+        try:
+            os.mkdir('./Stat_Sheets/{year}/'.format(year=year))
+            os.mkdir('./Stat_Sheets/{year}/{month}/'.format(year=year, month=monthString))
+        except OSError as error: 
+            print('')
         my_url = "http://rotoguru1.com/cgi-bin/hyday.pl?game=fd&mon={month}&day={day}&year={year}".format(month=month, day=day, year=year) #bs4 setup stuff
         uClient = uReq(my_url)            
         page_html = uClient.read()
         uClient.close()
         soup = BeautifulSoup(page_html, "html.parser")
-
         players = soup.find_all("tr") # first player is always 10
         if (len(players) >= 10) : # checks if there were games that day
             fields = ["Name", "Position", "FDPoints", "Salary", "Team", "Opp.", "Home/Away", "Score", "Min", "Pts", 'Rbs', 'Ast', 'Stl', 'Blk', 'To', '3PM', 'FGM', 'FGA', 'FTM', 'FTA']
@@ -59,7 +64,7 @@ def main():
                 if playerTracker != -1:
                     break
 
-            filename = "Stat_Sheets/" + str(datetime.strptime("1", "%m").strftime("%B")) + "/" + month + "-" + day + "-2019.csv"
+            filename = 'Stat_Sheets/{year}/{monthString}/{month}-{day}-{year}.csv'.format(year=year, monthString=monthString, day=day, month=month)
             with open(filename, "w", newline="") as csvfile: # writing to csv file  
                 csvwriter = csv.writer(csvfile)  
                 csvwriter.writerow(fields)  
