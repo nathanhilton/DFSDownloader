@@ -4,58 +4,75 @@ import csv
 import os
 import re
 from tqdm import tqdm
+import argparse
+from argparse import ArgumentParser
+from datetime import timedelta, date, datetime
 
 # the is a comment to see if a can push from new computer!!!!
 def main():
-    January = []
-    year = [January]
-    months = ["/January"]
-    for i in range(1,1):
-        January.append(2)
-    lengths = {1:1}
+    # January = []
+    # year = [January]
+    # months = ["/January"]
+    # for i in range(1,1):
+    #     January.append(2)
+    # lengths = {1:1}
+
+    startDate = date(2019, 1, 1)
+    endDate = date(2019, 1, 1)
 
     if os.path.isdir("./Stat_Sheets") == False:
         os.mkdir("./Stat_Sheets")
     print('\nDownloading Stats......')
-    for z in range(1,len(year) + 1):
-        folder = months[z - 1]
-        if os.path.isdir("./Stat_Sheets" + folder) == False:
-            os.mkdir("./Stat_Sheets" + folder)
-        for w in tqdm(range(1, lengths[z] + 1), desc=( (months[z - 1])[1:4] + ": " ) ):
-            my_url = "http://rotoguru1.com/cgi-bin/hyday.pl?game=fd&mon=" + str(z) + "&day=" + str(w) + "&year=2019" #bs4 setup stuff
-            uClient = uReq(my_url)            
-            page_html = uClient.read()
-            uClient.close()
-            soup = BeautifulSoup(page_html, "html.parser")
 
-            players = soup.find_all("tr") # first player is always 10
-            if (len(players) >= 10) : # checks if there were games that day
-                fields = ["Name", "Position", "FDPoints", "Salary", "Team", "Opp.", "Home/Away", "Score", "Min", "Pts", 'Rbs', 'Ast', 'Stl', 'Blk', 'To', '3PM', 'FGM', 'FGA', 'FTM', 'FTA']
-                rows = []
-                playerTracker = 0
-                for i in range(10,len(players)): # for the gaurds
-                    playerTracker = getTheStats(players, i, rows, playerTracker)
-                    if playerTracker != -1:
-                        break
-                for i in range(playerTracker,len(players)): # for the forwards
-                    playerTracker = getTheStats(players, i, rows, playerTracker)
-                    if playerTracker != -1:
-                        break
-                for i in range(playerTracker,len(players)): # for the centers
-                    playerTracker = getTheStats(players, i, rows, playerTracker)
-                    if playerTracker != -1:
-                        break
 
-                filename = "Stat_Sheets/" + folder + "/" + str(z) + "-" + str(w) + "-2019.csv"
-                with open(filename, "w", newline="") as csvfile: # writing to csv file  
-                    csvwriter = csv.writer(csvfile)  
-                    csvwriter.writerow(fields)  
-                    csvwriter.writerows(rows) 
+    # for z in range(1,len(year) + 1):
+    #     folder = months[z - 1]
+    #     if os.path.isdir("./Stat_Sheets" + folder) == False:
+    #         os.mkdir("./Stat_Sheets" + folder)
+    #     for w in tqdm(range(1, lengths[z] + 1), desc=( (months[z - 1])[1:4] + ": " ) ):
+
+    for currentDate in tqdm(daterange(startDate, endDate)):
+        year = str(currentDate.year)
+        month = str(currentDate.month)
+        day = str(currentDate.day)
+        my_url = "http://rotoguru1.com/cgi-bin/hyday.pl?game=fd&mon={month}&day={day}&year={year}".format(month=month, day=day, year=year) #bs4 setup stuff
+        uClient = uReq(my_url)            
+        page_html = uClient.read()
+        uClient.close()
+        soup = BeautifulSoup(page_html, "html.parser")
+
+        players = soup.find_all("tr") # first player is always 10
+        if (len(players) >= 10) : # checks if there were games that day
+            fields = ["Name", "Position", "FDPoints", "Salary", "Team", "Opp.", "Home/Away", "Score", "Min", "Pts", 'Rbs', 'Ast', 'Stl', 'Blk', 'To', '3PM', 'FGM', 'FGA', 'FTM', 'FTA']
+            rows = []
+            playerTracker = 0
+            for i in range(10,len(players)): # for the gaurds
+                playerTracker = getTheStats(players, i, rows, playerTracker)
+                if playerTracker != -1:
+                    break
+            for i in range(playerTracker,len(players)): # for the forwards
+                playerTracker = getTheStats(players, i, rows, playerTracker)
+                if playerTracker != -1:
+                    break
+            for i in range(playerTracker,len(players)): # for the centers
+                playerTracker = getTheStats(players, i, rows, playerTracker)
+                if playerTracker != -1:
+                    break
+
+            filename = "Stat_Sheets/" + str(datetime.strptime("1", "%m").strftime("%B")) + "/" + month + "-" + day + "-2019.csv"
+            with open(filename, "w", newline="") as csvfile: # writing to csv file  
+                csvwriter = csv.writer(csvfile)  
+                csvwriter.writerow(fields)  
+                csvwriter.writerows(rows) 
                     
     print('Download Completed!\n')
 
 
 #################################################################### HELPER FUNCTIONS ####################################################################
+def daterange(start_date, end_date):
+    for n in range(int ((end_date - start_date).days) + 1):
+        yield start_date + timedelta(n)
+
 def getTheStats(players, i, rows, playerTracker):
     try:
         helper = players[i].find_all("td")
