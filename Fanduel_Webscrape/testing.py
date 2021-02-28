@@ -7,30 +7,15 @@ from tqdm import tqdm
 import argparse
 from argparse import ArgumentParser
 from datetime import timedelta, date, datetime
+import numpy as np
 
 # the is a comment to see if a can push from new computer!!!!
 def main():
-    # January = []
-    # year = [January]
-    # months = ["/January"]
-    # for i in range(1,1):
-    #     January.append(2)
-    # lengths = {1:1}
-
     startDate = date(2019, 1, 1)
     endDate = date(2019, 1, 1)
-
     if os.path.isdir("./Stat_Sheets") == False:
         os.mkdir("./Stat_Sheets")
     print('\nDownloading Stats......')
-
-
-    # for z in range(1,len(year) + 1):
-    #     folder = months[z - 1]
-    #     if os.path.isdir("./Stat_Sheets" + folder) == False:
-    #         os.mkdir("./Stat_Sheets" + folder)
-    #     for w in tqdm(range(1, lengths[z] + 1), desc=( (months[z - 1])[1:4] + ": " ) ):
-
     for currentDate in tqdm(daterange(startDate, endDate)):
         year = str(currentDate.year)
         month = str(currentDate.month)
@@ -39,7 +24,7 @@ def main():
         try:
             os.mkdir('./Stat_Sheets/{year}/'.format(year=year))
             os.mkdir('./Stat_Sheets/{year}/{month}/'.format(year=year, month=monthString))
-        except OSError as error: 
+        except OSError: 
             print('')
         my_url = "http://rotoguru1.com/cgi-bin/hyday.pl?game=fd&mon={month}&day={day}&year={year}".format(month=month, day=day, year=year) #bs4 setup stuff
         uClient = uReq(my_url)            
@@ -50,6 +35,12 @@ def main():
         if (len(players) >= 10) : # checks if there were games that day
             fields = ["Name", "Position", "FDPoints", "Salary", "Team", "Opp.", "Home/Away", "Score", "Min", "Pts", 'Rbs', 'Ast', 'Stl', 'Blk', 'To', '3PM', 'FGM', 'FGA', 'FTM', 'FTA']
             rows = []
+
+            ###### testing
+            temp = np.empty(20, dtype=np.dtype('str'))
+            ###### end
+            
+            print(temp)
             playerTracker = 0
             for i in range(10,len(players)): # for the gaurds
                 playerTracker = getTheStats(players, i, rows, playerTracker)
