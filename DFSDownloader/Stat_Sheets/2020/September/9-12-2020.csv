@@ -1,0 +1,24 @@
+Name,Position,FDPoints,Salary,Team,Opp.,Home/Away,Score,Min,Pts,Rbs,Ast,Stl,Blk,To,3PM,FGM,FGA,FTM,FTA
+"James, LeBron",-1,57.7,N/A,lal,hou,home, 119-96,30:48,29,11,7,2,1,4,3,9,18,8,10
+"Harden, James",-1,44.7,N/A,hou,lal,away, 96-119,42:19,30,6,5,1,1,6,2,12,20,4,4
+"Davis, Anthony",-1,29.2,N/A,lal,hou,home, 119-96,34:25,13,11,4,0,1,6,0,4,9,5,6
+"Kuzma, Kyle",-1,26.8,N/A,lal,hou,home, 119-96,26:49,17,4,2,0,1,1,3,5,9,4,4
+"Westbrook, Russell",-1,26.8,N/A,hou,lal,away, 96-119,35:54,10,4,6,2,0,3,0,4,13,2,6
+"Morris, Markieff",-1,22.1,N/A,lal,hou,home, 119-96,24:21,16,3,3,0,0,2,4,6,7,0,0
+"Green, Jeff",-1,21.4,N/A,hou,lal,away, 96-119,24:36,13,2,0,0,2,0,1,3,9,6,6
+"Rondo, Rajon",-1,20.5,N/A,lal,hou,home, 119-96,20:39,3,5,5,1,1,2,1,1,4,0,0
+"Green, Danny",-1,19.3,N/A,lal,hou,home, 119-96,25:09,14,4,1,0,0,1,4,4,6,2,3
+"Rivers, Austin",-1,18.6,N/A,hou,lal,away, 96-119,24:10,9,3,2,1,0,0,1,2,7,4,6
+"Caruso, Alex",-1,18.4,N/A,lal,hou,home, 119-96,23:37,5,2,2,1,2,1,1,2,6,0,0
+"Tucker, P.J.",-1,16,N/A,hou,lal,away, 96-119,28:58,8,5,2,0,0,1,2,3,10,0,0
+"Covington, Robert",-1,14.9,N/A,hou,lal,away, 96-119,21:49,5,2,1,2,0,0,1,2,7,0,0
+"Caldwell-Pope, Kentavious",-1,14.7,N/A,lal,hou,home, 119-96,28:01,10,1,1,1,0,1,2,4,5,0,0
+"Horton-Tucker, Talen",-1,12.6,N/A,lal,hou,home, 119-96,9:45,9,3,0,0,0,0,1,4,7,0,0
+"McLemore, Ben",-1,10.4,N/A,hou,lal,away, 96-119,19:43,9,2,0,0,0,1,3,3,9,0,0
+"Clemons, Chris",-1,8.2,N/A,hou,lal,away, 96-119,4:30,7,1,0,0,0,0,2,2,5,1,2
+"Gordon, Eric",-1,7.9,N/A,hou,lal,away, 96-119,29:01,5,2,1,0,0,1,1,2,7,0,0
+"McGee, JaVale",-1,6.6,N/A,lal,hou,home, 119-96,2:43,0,3,0,0,1,0,0,0,1,0,0
+"Howard, Dwight",-1,4.4,N/A,lal,hou,home, 119-96,4:30,3,2,0,0,0,1,0,0,0,3,6
+"Frazier, Michael",-1,3.9,N/A,hou,lal,away, 96-119,4:30,0,2,1,0,0,0,0,0,1,0,0
+"Caboclo, Bruno",-1,2.4,N/A,hou,lal,away, 96-119,4:30,0,2,0,0,0,0,0,0,1,0,0
+"Smith, J.R.",-1,1.2,N/A,lal,hou,home, 119-96,3:42,0,1,0,0,0,0,0,0,1,0,0

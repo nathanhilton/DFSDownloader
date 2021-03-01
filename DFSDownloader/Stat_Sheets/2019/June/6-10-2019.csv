@@ -1,0 +1,19 @@
+Name,Position,FDPoints,Salary,Team,Opp.,Home/Away,Score,Min,Pts,Rbs,Ast,Stl,Blk,To,3PM,FGM,FGA,FTM,FTA
+"Leonard, Kawhi",-1,56.4,N/A,tor,gsw,home, 105-106,41:24,26,12,6,2,2,5,2,9,24,6,8
+"Curry, Stephen",-1,47.1,N/A,gsw,tor,away, 106-105,41:11,31,8,7,0,0,4,5,10,23,6,6
+"Thompson, Klay",-1,41.2,N/A,gsw,tor,away, 106-105,42:29,26,6,4,1,0,1,7,9,21,1,2
+"Lowry, Kyle",-1,38.8,N/A,tor,gsw,home, 105-106,42:13,18,4,6,1,2,2,1,8,16,1,2
+"Green, Draymond",-1,38,N/A,gsw,tor,away, 106-105,41:11,10,10,8,1,1,2,2,4,9,0,0
+"Gasol, Marc",-1,28.6,N/A,tor,gsw,home, 105-106,31:02,17,8,2,0,0,1,2,4,6,7,8
+"Ibaka, Serge",-1,27.7,N/A,tor,gsw,home, 105-106,16:58,15,6,1,1,1,2,0,5,8,5,6
+"Cousins, DeMarcus",-1,26.7,N/A,gsw,tor,away, 106-105,19:32,14,6,1,1,1,2,1,6,8,1,4
+"Iguodala, Andre",-1,23.7,N/A,gsw,tor,away, 106-105,30:28,5,1,3,1,4,2,1,2,7,0,0
+"Siakam, Pascal",-1,20.8,N/A,tor,gsw,home, 105-106,33:54,12,4,2,1,0,2,0,6,15,0,1
+"Durant, Kevin",-1,15.4,N/A,gsw,tor,away, 106-105,11:57,11,2,0,0,1,1,3,3,5,2,2
+"VanVleet, Fred",-1,14.9,N/A,tor,gsw,home, 105-106,27:19,11,2,1,0,0,0,3,3,7,2,2
+"Green, Danny",-1,12,N/A,tor,gsw,home, 105-106,33:15,4,5,0,1,0,1,0,2,7,0,0
+"Cook, Quinn",-1,7.2,N/A,gsw,tor,away, 106-105,11:35,3,1,2,0,0,0,1,1,2,0,0
+"Looney, Kevon",-1,6.6,N/A,gsw,tor,away, 106-105,17:49,4,3,0,0,0,1,0,2,4,0,0
+"Powell, Norman",-1,5.9,N/A,tor,gsw,home, 105-106,12:27,2,2,1,0,0,0,0,1,2,0,0
+"Livingston, Shaun",-1,4,N/A,gsw,tor,away, 106-105,15:32,0,0,2,1,0,2,0,0,2,0,0
+"Bell, Jordan",-1,2,N/A,gsw,tor,away, 106-105,4:01,2,0,0,0,0,0,0,1,1,0,0

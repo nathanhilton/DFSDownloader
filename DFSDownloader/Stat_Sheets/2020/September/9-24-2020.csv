@@ -1,0 +1,20 @@
+Name,Position,FDPoints,Salary,Team,Opp.,Home/Away,Score,Min,Pts,Rbs,Ast,Stl,Blk,To,3PM,FGM,FGA,FTM,FTA
+"Davis, Anthony",-1,50.5,N/A,lal,den,away, 114-108,40:31,34,5,3,3,0,3,1,10,15,13,14
+"James, LeBron",-1,48.8,N/A,lal,den,away, 114-108,38:21,26,9,8,0,0,0,1,7,18,11,14
+"Murray, Jamal",-1,46.6,N/A,den,lal,home, 108-114,45:12,32,3,8,0,1,4,0,12,20,8,8
+"Jokic, Nikola",-1,35.4,N/A,den,lal,home, 108-114,35:42,16,7,4,2,0,1,2,6,13,2,2
+"Howard, Dwight",-1,29.7,N/A,lal,den,away, 114-108,22:37,12,11,1,1,0,0,0,5,6,2,3
+"Rondo, Rajon",-1,26.5,N/A,lal,den,away, 114-108,21:34,11,5,7,0,0,1,1,4,6,2,4
+"Porter, Michael",-1,25.1,N/A,den,lal,home, 108-114,20:31,13,8,1,1,0,2,3,5,8,0,0
+"Caldwell-Pope, Kentavious",-1,21.9,N/A,lal,den,away, 114-108,34:25,13,2,1,1,1,1,3,5,12,0,0
+"Grant, Jerami",-1,20.9,N/A,den,lal,home, 108-114,42:47,17,2,1,0,0,0,2,6,13,3,4
+"Morris, Monte",-1,20.4,N/A,den,lal,home, 108-114,27:23,12,2,4,0,0,0,0,4,7,4,5
+"Craig, Torrey",-1,16.9,N/A,den,lal,home, 108-114,19:30,7,2,1,0,2,0,1,3,6,0,0
+"Millsap, Paul",-1,13.7,N/A,den,lal,home, 108-114,16:48,5,6,3,0,0,3,1,1,3,2,2
+"Kuzma, Kyle",-1,13.5,N/A,lal,den,away, 114-108,18:30,10,0,1,1,0,1,2,4,11,0,0
+"Caruso, Alex",-1,12.2,N/A,lal,den,away, 114-108,20:08,3,1,2,1,1,1,1,1,4,0,0
+"Morris, Markieff",-1,10.8,N/A,lal,den,away, 114-108,17:28,2,4,0,2,0,2,0,1,2,0,0
+"Harris, Gary",-1,8.4,N/A,den,lal,home, 108-114,18:31,3,2,0,1,0,0,1,1,5,0,0
+"Green, Danny",-1,6.6,N/A,lal,den,away, 114-108,21:14,3,3,0,0,0,0,1,1,6,0,0
+"Plumlee, Mason",-1,3.2,N/A,den,lal,home, 108-114,13:32,3,1,0,0,0,1,0,1,2,1,2
+"McGee, JaVale",-1,1.2,N/A,lal,den,away, 114-108,5:12,0,1,0,0,0,0,0,0,0,0,0

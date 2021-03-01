@@ -1,0 +1,20 @@
+Name,Position,FDPoints,Salary,Team,Opp.,Home/Away,Score,Min,Pts,Rbs,Ast,Stl,Blk,To,3PM,FGM,FGA,FTM,FTA
+"James, LeBron",-1,64.5,N/A,lal,den,away, 106-114,37:15,30,10,11,2,2,6,1,14,23,1,2
+"Murray, Jamal",-1,57.6,N/A,den,lal,home, 114-106,43:43,28,8,12,2,0,4,4,10,17,4,7
+"Jokic, Nikola",-1,42.5,N/A,den,lal,home, 114-106,37:24,22,10,5,1,1,5,1,9,14,3,4
+"Grant, Jerami",-1,35.1,N/A,den,lal,home, 114-106,33:41,26,3,1,2,0,2,2,7,11,10,12
+"Davis, Anthony",-1,30.9,N/A,lal,den,away, 106-114,42:48,27,2,1,1,0,3,0,9,17,9,10
+"Rondo, Rajon",-1,28.4,N/A,lal,den,away, 106-114,29:36,9,2,8,3,0,4,0,4,10,1,3
+"Porter, Michael",-1,22.2,N/A,den,lal,home, 114-106,21:53,9,6,2,2,0,3,1,4,6,0,0
+"Caldwell-Pope, Kentavious",-1,20.1,N/A,lal,den,away, 106-114,26:46,12,3,1,1,0,0,2,5,8,0,0
+"Millsap, Paul",-1,19.1,N/A,den,lal,home, 114-106,31:01,6,8,1,0,1,1,0,2,8,2,2
+"Morris, Monte",-1,16.7,N/A,den,lal,home, 114-106,19:55,14,1,1,0,0,0,2,5,7,2,2
+"Caruso, Alex",-1,12.7,N/A,lal,den,away, 106-114,24:41,2,1,3,2,0,1,0,1,7,0,0
+"Kuzma, Kyle",-1,12.7,N/A,lal,den,away, 106-114,26:01,11,1,1,0,0,1,1,4,7,2,3
+"Craig, Torrey",-1,11.2,N/A,den,lal,home, 114-106,15:29,2,6,0,1,0,1,0,1,4,0,0
+"Harris, Gary",-1,10.5,N/A,den,lal,home, 114-106,32:19,7,0,3,0,0,1,1,2,5,2,2
+"Green, Danny",-1,10.3,N/A,lal,den,away, 106-114,20:09,4,4,1,0,0,0,1,1,4,1,2
+"Howard, Dwight",-1,10.2,N/A,lal,den,away, 106-114,14:04,4,1,0,1,1,1,0,2,3,0,1
+"McGee, JaVale",-1,8.2,N/A,lal,den,away, 106-114,8:05,4,1,0,1,0,0,0,2,2,0,1
+"Morris, Markieff",-1,4.5,N/A,lal,den,away, 106-114,10:35,3,0,1,0,0,0,1,1,2,0,0
+"Plumlee, Mason",-1,2.9,N/A,den,lal,home, 114-106,4:35,0,2,1,0,0,1,0,0,1,0,0
