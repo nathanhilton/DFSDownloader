@@ -9,6 +9,8 @@ from argparse import ArgumentParser
 from datetime import timedelta, date, datetime
 import numpy as np
 
+import multiprocessing
+
 from NBA_Fanduel import NBA_Fanduel
 
 # the is a comment to see if a can push from new computer!!!!
@@ -34,9 +36,16 @@ def main():
     
     downloader = NBA_Fanduel(startDate, endDate)
     
+    processes = []
     for i in tqdm(range(0, (endDate - startDate).days + 1), desc='Progess Bar: '):
         currentDate = startDate + (deltaDate * i)
+        # p = multiprocessing.Process(target=downloader.download, args=(currentDate))
         downloader.download(currentDate)
+        # processes.append(p)
+        # p.start()
+    
+    # for process in processes:
+    #     process.join()
                     
     print('Download Completed!\n')
 
