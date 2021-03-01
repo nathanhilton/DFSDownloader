@@ -34,7 +34,7 @@ def main():
     
     downloader = NBA_Fanduel(startDate, endDate)
     
-    for i in tqdm(range(0, (endDate - startDate).days), desc='Progess Bar: '):
+    for i in tqdm(range(0, (endDate - startDate).days + 1), desc='Progess Bar: '):
         currentDate = startDate + (deltaDate * i)
         downloader.download(currentDate)
                     
