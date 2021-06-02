@@ -22,6 +22,7 @@ Now you are ready to start downloading data!
 
 ## How To Use
 
+#### Format
 To download the data you will need to run a terminal command with the following format
    ```sh
    python main.py start_date end_date
@@ -29,6 +30,7 @@ To download the data you will need to run a terminal command with the following 
 
 The two required parameters needed are the start date and end date in the format <br />
 
+#### Example
 An example of downloading all the data from August 2020 would look like this
    ```sh
    python main.py 2020-08-01 2020-08-31
