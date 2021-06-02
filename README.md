@@ -35,7 +35,7 @@ An example of downloading all the data from August 2020 would look like this
    ```sh
    python main.py 2020-08-01 2020-08-31
    ```
-<br /><br />
+<br />
 
 ## Future Plans
 <li>Adding for platforms and sports</li?
