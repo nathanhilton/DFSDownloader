@@ -17,7 +17,7 @@ The next step is do download all the necessary libaries with the command
    ```sh
    pip install -r requirements.txt
    ```
-Now you are ready to start downloading data!
+Now you are ready to start downloading data!<br />
 <br />
 
 ## How To Use
@@ -35,7 +35,7 @@ An example of downloading all the data from August 2020 would look like this
    ```sh
    python main.py 2020-08-01 2020-08-31
    ```
-<br />
+<br /><br />
 
 ## Future Plans
 <li>Adding for platforms and sports</li?
