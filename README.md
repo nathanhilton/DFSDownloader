@@ -1,4 +1,4 @@
-# Daily Fantasy Sports Data Downloading Tool
+# Daily Fantasy Sports Historical Data Downloader
 
 ## About The Project
 
