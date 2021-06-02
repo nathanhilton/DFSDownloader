@@ -22,7 +22,10 @@ Now you are ready to start downloading data!
 
 ## How To Use
 
-
+To download the data you will need to run a terminal command with the following format
+   ```sh
+   python main.py start_date end_date
+   ```
 
 
 ## Future Plans
