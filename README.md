@@ -25,7 +25,7 @@ Now you are ready to start downloading data!<br />
 ### Format
 To download the data you will need to run a terminal command with the following format
    ```sh
-   python main.py start_date end_date
+   python main.py start_date end_date sport platform
    ```
 
 The two required parameters needed are the start date and end date in the format <br />
@@ -33,7 +33,7 @@ The two required parameters needed are the start date and end date in the format
 ### Example
 An example of downloading all the data from August 2020 would look like this
    ```sh
-   python main.py 2020-08-01 2020-08-31
+   python main.py 2020-08-01 2020-08-31 NBA Fanduel
    ```
 <br />
 
