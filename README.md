@@ -39,5 +39,8 @@ An example of downloading all the data from August 2020 would look like this
    ```
 <br />
 
+## Folder Structure Of Data
+
+
 ## Future Plans
 <li>Adding more sports and platforms</li>
