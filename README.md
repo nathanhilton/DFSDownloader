@@ -1,1 +1,41 @@
-This is the README for the webscrape. Detailed README to come in the future!
+## About The Project
+
+The purpose of this repository is to easily allow people to download historical daily fantasy sports data. Currently there is no easy way to download this data, but this repository will allow users to easily download the data with one terminal command! <br />
+
+The current list of daily fantasy sports platforms supported:
+<li>NBA Fanduel</li>
+<br />
+
+## Getting Started
+
+The first step is to clone the repository. This can be done with the command 
+   ```sh
+   git clone https://github.com/nathanhilton/DFSDownloader.git
+   ```
+
+The next step is do download all the necessary libaries with the command
+   ```sh
+   pip install -r requirements.txt
+   ```
+Now you are ready to start downloading data!<br />
+<br />
+
+## How To Use
+
+### Format
+To download the data you will need to run a terminal command with the following format
+   ```sh
+   python main.py start_date end_date
+   ```
+
+The two required parameters needed are the start date and end date in the format <br />
+
+### Example
+An example of downloading all the data from August 2020 would look like this
+   ```sh
+   python main.py 2020-08-01 2020-08-31
+   ```
+<br />
+
+## Future Plans
+<li>Adding for platforms and sports</li?
