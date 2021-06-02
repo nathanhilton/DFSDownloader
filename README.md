@@ -1,3 +1,5 @@
+# Daily Fantasy Sports Data Downloading Tool
+
 ## About The Project
 
 The purpose of this repository is to easily allow people to download historical daily fantasy sports data. Currently there is no easy way to download this data, but this repository will allow users to easily download the data with one terminal command! <br />
