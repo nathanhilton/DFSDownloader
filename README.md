@@ -10,7 +10,7 @@ The current list of daily fantasy sports platforms supported:
 
 The first step is to clone the repository. This can be done with the command 
    ```sh
-   https://github.com/nathanhilton/DFSDownloader.git
+   git clone https://github.com/nathanhilton/DFSDownloader.git
    ```
 
 The next step is do download all the necessary libaries with the command
