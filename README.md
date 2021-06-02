@@ -27,8 +27,12 @@ To download the data you will need to run a terminal command with the following 
    python main.py start_date end_date
    ```
 
-The two required parameters needed are the start date and end date in the format <br /> <br />
+The two required parameters needed are the start date and end date in the format <br />
 
+An example of downloading all the data from August 2020 would look like this
+   ```sh
+   python main.py 2020-08-01 2020-08-31
+   ```
 
 
 ## Future Plans
