@@ -15,7 +15,7 @@ The first step is to clone the repository. This can be done with the command
    git clone https://github.com/nathanhilton/DFSDownloader.git
    ```
 
-After entering the outer directory, the next step is to download all the necessary libaries with the command
+After entering the created directory, the next step is to download all the necessary libaries with the command
    ```sh
    pip install -r requirements.txt
    ```
