@@ -4,7 +4,7 @@ The purpose of this repository is to easily allow people to download historical 
 
 The current list of daily fantasy sports platforms supported:
 <li>NBA Fanduel</li>
-
+<br />
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ The next step is do download all the necessary libaries with the command
    pip install -r requirements.txt
    ```
 Now you are ready to start downloading data!
-
+<br />
 
 ## How To Use
 
@@ -35,7 +35,7 @@ An example of downloading all the data from August 2020 would look like this
    ```sh
    python main.py 2020-08-01 2020-08-31
    ```
-
+<br />
 
 ## Future Plans
 <li>Adding for platforms and sports</li?
