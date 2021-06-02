@@ -13,3 +13,4 @@ The next step is do download all the necessary libaries with the command
    ```sh
    pip install -r requirements.txt
    ```
+Now you are ready to start downloading data!
