@@ -6,5 +6,10 @@ The purpose of this repository is to easily allow people to download historical 
 
 The first step is to clone the repository. This can be done with the command 
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   https://github.com/nathanhilton/DFSDownloader.git
+   ```
+
+The next step is do download all the necessary libaries with the command
+   ```sh
+   pip install -r requirements.txt
    ```
