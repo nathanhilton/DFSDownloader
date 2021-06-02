@@ -15,7 +15,7 @@ The first step is to clone the repository. This can be done with the command
    git clone https://github.com/nathanhilton/DFSDownloader.git
    ```
 
-The next step is do download all the necessary libaries with the command
+After entering the created directory, the next step is to download all the necessary libaries with the command
    ```sh
    pip install -r requirements.txt
    ```
@@ -27,7 +27,7 @@ Now you are ready to start downloading data!<br />
 ### Format
 To download the data you will need to run a terminal command with the following format
    ```sh
-   python main.py start_date end_date
+   python main.py start_date end_date sport platform
    ```
 
 The two required parameters needed are the start date and end date in the format <br />
@@ -35,9 +35,9 @@ The two required parameters needed are the start date and end date in the format
 ### Example
 An example of downloading all the data from August 2020 would look like this
    ```sh
-   python main.py 2020-08-01 2020-08-31
+   python main.py 2020-08-01 2020-08-31 NBA Fanduel
    ```
 <br />
 
 ## Future Plans
-<li>Adding for platforms and sports</li?
+<li>Adding more sports and platforms</li>
