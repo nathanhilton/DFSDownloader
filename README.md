@@ -27,5 +27,9 @@ To download the data you will need to run a terminal command with the following 
    python main.py start_date end_date
    ```
 
+The two required parameters needed are the start date and end date in the format <br />
+YEAR-MONTH-DAY <br />
+Ex) 2020-08-15
+
 
 ## Future Plans
