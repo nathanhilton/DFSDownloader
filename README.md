@@ -1,8 +1,7 @@
 ## About The Project
 
-The purpose of this repository is to easily allow people to download historical daily fantasy sports data. Currently there is no easy way to download this data, but this repository will allow users to easily download the data with one terminal command! 
-The current list of daily fantasy sports platforms supported:
-<li>fdsf</li>
+The purpose of this repository is to easily allow people to download historical daily fantasy sports data. Currently there is no easy way to download this data, but this repository will allow users to easily download the data with one terminal command!\nThe current list of daily fantasy sports platforms supported:
+<li>NBA Fanduel</li>
 
 
 ## Getting Started
