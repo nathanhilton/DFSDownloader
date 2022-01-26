@@ -1,6 +1,5 @@
 from urllib.request import urlopen as uReq
 from bs4 import BeautifulSoup
-import csv 
 import os
 import re
 from datetime import datetime
@@ -13,22 +12,18 @@ class NBA_Fanduel(downloaderBase):
         month = str(currentDate.month)
         day = str(currentDate.day)
         monthString = str(datetime.strptime(month, "%m").strftime("%B"))
-        try:
-            os.mkdir('./Stat_Sheets/{year}/'.format(year=year))
-            os.mkdir('./Stat_Sheets/{year}/{month}/'.format(year=year, month=monthString))
-        except OSError: 
-            try:
-                os.mkdir('./Stat_Sheets/{year}/{month}/'.format(year=year, month=monthString))
-            except:
-                pass
-        my_url = "http://rotoguru1.com/cgi-bin/hyday.pl?game=fd&mon={month}&day={day}&year={year}".format(month=month, day=day, year=year) #bs4 setup stuff
+
+        self.create_folders_for_files(monthString, year)
+
+        my_url = "http://rotoguru1.com/cgi-bin/hyday.pl?game=dk&mon={month}&day={day}&year={year}".format(month=month, day=day, year=year) #bs4 setup stuff
         uClient = uReq(my_url)            
         page_html = uClient.read()
         uClient.close()
         soup = BeautifulSoup(page_html, "html.parser")
         players = soup.find_all("tr") # first player is always 10
+
         if (len(players) >= 10) : # checks if there were games that day
-            fields = ["Name", "Position", "FDPoints", "Salary", "Team", "Opp.", "Home/Away", "Score", "Min", "Pts", 'Rbs', 'Ast', 'Stl', 'Blk', 'To', '3PM', 'FGM', 'FGA', 'FTM', 'FTA']
+            fields = ["Name", "Position", "Points", "Salary", "Team", "Opp.", "Home/Away", "Score", "Min", "Pts", 'Rbs', 'Ast', 'Stl', 'Blk', 'To', '3PM', 'FGM', 'FGA', 'FTM', 'FTA']
             rows = []   
             playerTracker = 0
             for i in range(10,len(players)): # for the gaurds
@@ -45,17 +40,15 @@ class NBA_Fanduel(downloaderBase):
                     break
 
             filename = 'Stat_Sheets/{year}/{monthString}/{month}-{day}-{year}.csv'.format(year=year, monthString=monthString, day=day, month=month)
-            with open(filename, "w", newline="") as csvfile: # writing to csv file  
-                csvwriter = csv.writer(csvfile)  
-                csvwriter.writerow(fields)  
-                csvwriter.writerows(rows) 
+            self.write_to_csv(filename, fields, rows)
+
 
     def getTheStats(self, players, i, rows, playerTracker):
             try:
                 helper = players[i].find_all("td")
                 stats = self.splitStatsIntoCatagories(str(helper[8].text))
                 rows.append([ players[i].find("a").text,                          # Name
-                            self.getPosition(helper[0].text),                     # Position
+                            helper[0].text,                     # Position
                             helper[2].text,                                       # FDPoints
                             re.sub('[$,]', '', helper[3].text),                   # Salary
                             helper[4].text,                                       # Team

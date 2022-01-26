@@ -24,7 +24,7 @@ def main():
         raise TypeError('end date need to be after start date!')
     
     if sport == 'nba' and website == 'fanduel':
-        downloader = NBA_Fanduel(startDate, endDate)
+        downloader = NBA_Fanduel(startDate, endDate, sport, website)
     else:
         print('Enter a valid combination of sport and website')
         return
