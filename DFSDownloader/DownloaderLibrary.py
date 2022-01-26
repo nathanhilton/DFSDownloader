@@ -1,5 +1,3 @@
-
-
 class downloaderBase():
     def __init__(self, startDate, endDate, sport='NBA', platform='fanduel'):
         self.startDate = startDate

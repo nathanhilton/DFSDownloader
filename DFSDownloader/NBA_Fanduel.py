@@ -3,12 +3,9 @@ from bs4 import BeautifulSoup
 import csv 
 import os
 import re
-from tqdm import tqdm
-import argparse
-from argparse import ArgumentParser
-from datetime import timedelta, date, datetime
-import numpy as np
+from datetime import datetime
 from DownloaderLibrary import downloaderBase
+
 
 class NBA_Fanduel(downloaderBase):
     def download(self, currentDate):
@@ -32,12 +29,7 @@ class NBA_Fanduel(downloaderBase):
         players = soup.find_all("tr") # first player is always 10
         if (len(players) >= 10) : # checks if there were games that day
             fields = ["Name", "Position", "FDPoints", "Salary", "Team", "Opp.", "Home/Away", "Score", "Min", "Pts", 'Rbs', 'Ast', 'Stl', 'Blk', 'To', '3PM', 'FGM', 'FGA', 'FTM', 'FTA']
-            rows = []
-
-            ###### testing
-            temp = np.empty(20, dtype=np.dtype('str'))
-            ###### end
-            
+            rows = []   
             playerTracker = 0
             for i in range(10,len(players)): # for the gaurds
                 playerTracker = self.getTheStats(players, i, rows, playerTracker)
@@ -62,13 +54,13 @@ class NBA_Fanduel(downloaderBase):
             try:
                 helper = players[i].find_all("td")
                 stats = self.splitStatsIntoCatagories(str(helper[8].text))
-                rows.append([ players[i].find("a").text,                            # Name
-                            self.getPosition(helper[0].text),                          # Position
+                rows.append([ players[i].find("a").text,                          # Name
+                            self.getPosition(helper[0].text),                     # Position
                             helper[2].text,                                       # FDPoints
                             re.sub('[$,]', '', helper[3].text),                   # Salary
                             helper[4].text,                                       # Team
                             str(helper[5].text)[2:len(str(helper[5].text))],      # Opponent    
-                            self.homeVsAway(helper[5].text),                           # Home or Away
+                            self.homeVsAway(helper[5].text),                      # Home or Away
                             helper[6].text,                                       # Score of Game
                             helper[7].text,                                       # Minutes Played
                             stats[0],                                             # Points
