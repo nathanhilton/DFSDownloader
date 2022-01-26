@@ -1,9 +1,10 @@
-import os
 from tqdm import tqdm
 from argparse import ArgumentParser
 from datetime import timedelta, date
-from NBADraftkings import NBADraftkings
-from NBAFanduel import NBAFanduel
+from NBA.NBADraftkings import NBADraftkings
+from NBA.NBAFanduel import NBAFanduel
+from NFL.NFLDraftkings import NFLDraftkings
+from NFL.NFLFanduel import NFLFanduel
 
 
 def main():
@@ -28,6 +29,10 @@ def main():
         downloader = NBAFanduel(startDate, endDate)
     elif sport == 'nba' and website == 'draftkings':
         downloader = NBADraftkings(startDate, endDate)
+    elif sport == 'nfl' and website == 'fanduel':
+        downloader = NFLFanduel(startDate, endDate)
+    elif sport == 'nfl' and website == 'draftkings':
+        downloader = NFLDraftkings(startDate, endDate)
     else:
         print('Enter a valid combination of sport and website')
         return
