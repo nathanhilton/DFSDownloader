@@ -1,7 +1,5 @@
 import csv
-from genericpath import exists 
 import os
-from sys import platform
 
 
 class downloaderBase():

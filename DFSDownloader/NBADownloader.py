@@ -1,7 +1,5 @@
-from sys import platform
 from urllib.request import urlopen as uReq
 from bs4 import BeautifulSoup
-import os
 import re
 from datetime import datetime
 from DownloaderLibrary import downloaderBase

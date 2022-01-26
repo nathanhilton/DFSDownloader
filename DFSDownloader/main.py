@@ -31,10 +31,6 @@ def main():
     else:
         print('Enter a valid combination of sport and website')
         return
-
-    if os.path.isdir("./Stat_Sheets") == False:
-        os.mkdir("./Stat_Sheets")
-    print('\nDownloading Stats......')
     
     for i in tqdm(range(0, (endDate - startDate).days + 1), desc='Progess Bar: '):
         currentDate = startDate + (deltaDate * i)
