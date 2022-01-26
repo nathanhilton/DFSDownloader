@@ -2,7 +2,8 @@ import os
 from tqdm import tqdm
 from argparse import ArgumentParser
 from datetime import timedelta, date
-from NBA_Fanduel import NBA_Fanduel
+from NBADraftkings import NBADraftkings
+from NBAFanduel import NBAFanduel
 
 
 def main():
@@ -24,7 +25,9 @@ def main():
         raise TypeError('end date need to be after start date!')
     
     if sport == 'nba' and website == 'fanduel':
-        downloader = NBA_Fanduel(startDate, endDate, sport, website)
+        downloader = NBAFanduel(startDate, endDate)
+    elif sport == 'nba' and website == 'draftkings':
+        downloader = NBADraftkings(startDate, endDate)
     else:
         print('Enter a valid combination of sport and website')
         return

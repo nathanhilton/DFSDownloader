@@ -1,3 +1,4 @@
+from sys import platform
 from urllib.request import urlopen as uReq
 from bs4 import BeautifulSoup
 import os
@@ -6,16 +7,17 @@ from datetime import datetime
 from DownloaderLibrary import downloaderBase
 
 
-class NBA_Fanduel(downloaderBase):
+class NBADownloader(downloaderBase):
+    def __init__(self, platform_shortened):
+        self.platform_shortened = platform_shortened
+
     def download(self, currentDate):
         year = str(currentDate.year)
         month = str(currentDate.month)
         day = str(currentDate.day)
         monthString = str(datetime.strptime(month, "%m").strftime("%B"))
 
-        self.create_folders_for_files(monthString, year)
-
-        my_url = "http://rotoguru1.com/cgi-bin/hyday.pl?game=dk&mon={month}&day={day}&year={year}".format(month=month, day=day, year=year) #bs4 setup stuff
+        my_url = "http://rotoguru1.com/cgi-bin/hyday.pl?game={platform}&mon={month}&day={day}&year={year}".format(month=month, day=day, year=year, platform=self.platform_shortened) #bs4 setup stuff
         uClient = uReq(my_url)            
         page_html = uClient.read()
         uClient.close()
@@ -38,9 +40,11 @@ class NBA_Fanduel(downloaderBase):
                 playerTracker = self.getTheStats(players, i, rows, playerTracker)
                 if playerTracker != -1:
                     break
-
-            filename = 'Stat_Sheets/{year}/{monthString}/{month}-{day}-{year}.csv'.format(year=year, monthString=monthString, day=day, month=month)
-            self.write_to_csv(filename, fields, rows)
+            
+            if len(rows) != 0:
+                filepath = self.create_folders_for_files(monthString, year)
+                filename = filepath + '{month}-{day}-{year}.csv'.format(year=year, day=day, month=month)
+                self.write_to_csv(filename, fields, rows)
 
 
     def getTheStats(self, players, i, rows, playerTracker):
@@ -123,12 +127,13 @@ class NBA_Fanduel(downloaderBase):
             finalStats.append(0)
             return 0
 
-    def getPosition(self, position):
-        switcher = {
-            'PG': 1,
-            'SG': 2,
-            'SF': 3,
-            'PF': 4,
-            'C': 5,
-        }
-        return switcher.get(position, -1)
+    # don't believe i need this function
+    # def getPosition(self, position):
+    #     switcher = {
+    #         'PG': 1,
+    #         'SG': 2,
+    #         'SF': 3,
+    #         'PF': 4,
+    #         'C': 5,
+    #     }
+    #     return switcher.get(position, -1)

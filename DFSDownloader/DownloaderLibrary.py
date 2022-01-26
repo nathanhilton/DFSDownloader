@@ -1,9 +1,11 @@
-import csv 
+import csv
+from genericpath import exists 
 import os
+from sys import platform
 
 
 class downloaderBase():
-    def __init__(self, startDate, endDate, sport='NBA', platform='fanduel'):
+    def __init__(self, startDate, endDate, sport, platform):
         self.startDate = startDate
         self.endDate = endDate
         self.sport = sport
@@ -19,11 +21,6 @@ class downloaderBase():
             csvwriter.writerows(rows)
 
     def create_folders_for_files(self, month, year):
-        try:
-            os.mkdir('./Stat_Sheets/{year}/'.format(year=year))
-            os.mkdir('./Stat_Sheets/{year}/{month}/'.format(year=year, month=month))
-        except OSError: 
-            try:
-                os.mkdir('./Stat_Sheets/{year}/{month}/'.format(year=year, month=month))
-            except:
-                pass
+        filepath = './Stat_Sheets/{sport}_{platform}/{year}/{month}/'.format(year=year, month=month, sport=self.sport, platform=self.platform)
+        os.makedirs(filepath, exist_ok=True)
+        return filepath
