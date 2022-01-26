@@ -5,6 +5,8 @@ from NBA.NBADraftkings import NBADraftkings
 from NBA.NBAFanduel import NBAFanduel
 from NFL.NFLDraftkings import NFLDraftkings
 from NFL.NFLFanduel import NFLFanduel
+from MLB.MLBDraftkings import MLBDraftkings
+from MLB.MLBFanduel import MLBFanduel
 
 
 def main():
@@ -33,6 +35,10 @@ def main():
         downloader = NFLFanduel(startDate, endDate)
     elif sport == 'nfl' and website == 'draftkings':
         downloader = NFLDraftkings(startDate, endDate)
+    elif sport == 'mlb' and website == 'fanduel':
+        downloader = MLBFanduel(startDate, endDate)
+    elif sport == 'mlb' and website == 'draftkings':
+        downloader = MLBDraftkings(startDate, endDate)
     else:
         print('Enter a valid combination of sport and website')
         return
