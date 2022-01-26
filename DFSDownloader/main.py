@@ -1,42 +1,33 @@
-from urllib.request import urlopen as uReq
-from bs4 import BeautifulSoup
-import csv 
 import os
-import re
 from tqdm import tqdm
-import argparse
 from argparse import ArgumentParser
-from datetime import timedelta, date, datetime
-import numpy as np
+from datetime import timedelta, date
+from NBADraftkings import NBADraftkings
+from NBAFanduel import NBAFanduel
 
-from NBA_Fanduel import NBA_Fanduel
 
 def main():
     parser = ArgumentParser()
     parser.add_argument("startDate", metavar='start_date', type=str, help="starting date for downloads")
-    parser.add_argument("endDate", metavar='end_date', type=str, help="tiled image width and height")
-    parser.add_argument("sport", metavar='sport', type=str, help="tiled image width and height")
-    parser.add_argument("website", metavar='website', type=str, help="tiled image width and height")
+    parser.add_argument("endDate", metavar='end_date', type=str, help="starting date for downloads")
+    parser.add_argument("sport", metavar='sport', type=str, help="options are NFL and NBA")
+    parser.add_argument("website", metavar='website', type=str, help="options are Draftkings and Fanduel")
     
     args = parser.parse_args()
-    startTemp = args.startDate.split('-')
-    startDate = date(int(startTemp[0]), int(startTemp[1]), int(startTemp[2]))
-    endTemp = args.endDate.split('-')
-    endDate = date(int(endTemp[0]), int(endTemp[1]), int(endTemp[2]))
-    deltaDate = timedelta(days=1)
+    startDate = date.fromisoformat(args.startDate)
+    endDate = date.fromisoformat(args.endDate)
     sport = args.sport.lower()
     website = args.website.lower()
+    deltaDate = timedelta(days=1)
 
     # checking if parameters are valid
-    if ((endDate - startDate). days < 0):
+    if (endDate - startDate).days < 0:
         raise TypeError('end date need to be after start date!')
-
-    if os.path.isdir("./Stat_Sheets") == False:
-        os.mkdir("./Stat_Sheets")
-    print('\nDownloading Stats......')
     
-    if (sport == 'nba' and website == 'fanduel'):
-        downloader = NBA_Fanduel(startDate, endDate)
+    if sport == 'nba' and website == 'fanduel':
+        downloader = NBAFanduel(startDate, endDate)
+    elif sport == 'nba' and website == 'draftkings':
+        downloader = NBADraftkings(startDate, endDate)
     else:
         print('Enter a valid combination of sport and website')
         return
@@ -46,6 +37,7 @@ def main():
         downloader.download(currentDate)
                     
     print('Download Completed!\n')
+
 
 if __name__ == "__main__":
     main()
