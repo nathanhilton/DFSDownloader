@@ -1,4 +1,6 @@
 Stat_Sheets/
 DFSDownloader/Stat_Sheets/
 .DS_Store
-*/__pycache__/
+DFSDownloader/__pycache__/
+DFSDownloader/NFL/__pycache__/
+DFSDownloader/NBA/__pycache__/
