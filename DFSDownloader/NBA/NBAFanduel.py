@@ -1,5 +1,5 @@
 from DownloaderLibrary import downloaderBase
-from NBADownloader import NBADownloader
+from NBA.NBADownloader import NBADownloader
 
 
 class NBAFanduel(NBADownloader):

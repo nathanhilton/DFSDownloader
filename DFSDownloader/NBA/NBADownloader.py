@@ -44,7 +44,6 @@ class NBADownloader(downloaderBase):
                 filename = filepath + '{month}-{day}-{year}.csv'.format(year=year, day=day, month=month)
                 self.write_to_csv(filename, fields, rows)
 
-
     def getTheStats(self, players, i, rows, playerTracker):
             try:
                 helper = players[i].find_all("td")
